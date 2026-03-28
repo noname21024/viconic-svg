@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="48" height="48" viewBox="-4 0 24 24" version="1.1">
+    
+    <title>volume-off</title>
+    <desc>Created with Sketch Beta.</desc>
+    <defs>
+
+</defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Icon-Set-Filled" transform="translate(-161.000000, -573.000000)" fill="currentColor">
+            <path d="M161,581 L161,589 C161,590.104 161.896,591 163,591 L166,591 L166,579 L163,579 C161.896,579 161,579.896 161,581 L161,581 Z M175,573 L168,577.667 L168,592.333 L175,597 C176.104,597 177,596.104 177,595 L177,575 C177,573.896 176.104,573 175,573 L175,573 Z" id="volume-off">
+
+</path>
+        </g>
+    </g>
+</svg>

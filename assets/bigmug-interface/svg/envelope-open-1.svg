@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="48" height="48" viewBox="0 0 32 32" version="1.1">
+    
+    <title>envelope-open</title>
+    <desc>Created with Sketch Beta.</desc>
+    <defs>
+
+</defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Icon-Set-Filled" transform="translate(-518.000000, -257.000000)" fill="currentColor">
+            <path d="M534,280 L530.742,277.76 L520.323,288.621 C520.835,288.858 521.399,289 522,289 L546,289 C546.601,289 547.165,288.858 547.677,288.621 L537.258,277.76 L534,280 L534,280 Z M538.935,276.607 L549.29,287.27 C549.736,286.624 550,285.844 550,285 L550,268.317 L538.935,276.607 L538.935,276.607 Z M549.76,265.851 L534,257 L518.24,265.851 L534,277.656 L549.76,265.851 L549.76,265.851 Z M518,268 L518,285 C518,285.844 518.264,286.624 518.71,287.27 L529.066,276.607 L518,268 L518,268 Z" id="envelope-open">
+
+</path>
+        </g>
+    </g>
+</svg>

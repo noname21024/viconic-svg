@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="48" height="48" viewBox="0 -5 32 32" version="1.1">
+    
+    <title>backspace</title>
+    <desc>Created with Sketch Beta.</desc>
+    <defs>
+
+</defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Icon-Set-Filled" transform="translate(-570.000000, -1146.000000)" fill="currentColor">
+            <path d="M598,1146 L580.072,1146 C579.792,1145.98 579.508,1146.07 579.293,1146.28 L570.316,1156.22 C570.104,1156.43 570.015,1156.71 570.029,1156.98 C570.015,1157.26 570.104,1157.54 570.316,1157.75 L579.293,1167.69 C579.488,1167.88 579.744,1167.98 580,1167.98 L580,1168 L598,1168 C600.209,1168 602,1166.21 602,1164 L602,1150 C602,1147.79 600.209,1146 598,1146" id="backspace">
+
+</path>
+        </g>
+    </g>
+</svg>
