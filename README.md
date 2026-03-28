@@ -9,12 +9,12 @@
 
 Visit **[viconic.dev](https://viconic.dev)** for the best experience:
 
-- 🔍 **Instant Search** - Find icons across 200,000+ icons in milliseconds
-- 📋 **One-Click Copy** - HTML, React, SVG, or CDN code
+- � **Instant Search** - Find icons across 200,000+ icons in milliseconds
+- � **One-Click Copy** - HTML, React, SVG, or CDN code
 - 🎨 **Live Preview** - Test colors, sizes, and styles
-- � **Custom Kits** - Create project-specific icon collections
+- ✨ **Custom Kits** - Create project-specific icon collections
 - ⚡ **Global CDN** - Fast delivery worldwide
-- �️ **SVhG Editor** - Edit and optimize SVGs in browser
+- ✏️ **SVG Editor** - Edit and optimize SVGs in browser
 
 ## 📦 Alternative: Install via NPM
 
@@ -76,8 +76,8 @@ Each `info.json` contains:
 
 - **Tabler Icons** (6,080) MIT
 - **Lucide** (1,703) ISC
-- **Heroicons** (1288) MIT
-- **Bootstrap Icons** (2,080) -By Bootstrap, MIT
+- **Heroicons** (1,288) MIT
+- **Bootstrap Icons** (2,080) - By Bootstrap, MIT
 - **Font Awesome** (2,000+) - Most popular, Multiple licenses
 - **Material Design Icons** (7,000+) - Google, Apache 2.0
 - **Feather Icons** (280+) - Simply beautiful, MIT
