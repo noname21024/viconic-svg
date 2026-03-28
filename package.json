@@ -1,0 +1,31 @@
+{
+  "name": "viconic-svg",
+  "version": "1.0.0",
+  "description": "[![Viconic Website Interface](logo.svg)](https://www.viconic.io.vn)",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest --testTimeout=180000"
+  },
+  "jest": {
+    "testEnvironment": "node",
+    "testMatch": [
+      "**/tests/**/*.test.js"
+    ]
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/noname21024/viconic-svg.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/noname21024/viconic-svg/issues"
+  },
+  "homepage": "https://github.com/noname21024/viconic-svg#readme",
+  "devDependencies": {
+    "fast-xml-parser": "^5.5.9",
+    "jest": "^30.3.0"
+  }
+}
