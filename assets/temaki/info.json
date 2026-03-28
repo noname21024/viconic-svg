@@ -1,0 +1,18 @@
+﻿{
+    "prefix":  "temaki",
+    "info":  {
+                 "name":  "Temaki",
+                 "url":  "",
+                 "total":  543,
+                 "author":  {
+                                "name":  "Bryan Housel",
+                                "url":  "https://github.com/rapideditor/temaki"
+                            },
+                 "license":  {
+                                 "title":  "CC0",
+                                 "spdx":  "CC0-1.0",
+                                 "url":  "https://creativecommons.org/publicdomain/zero/1.0/"
+                             }
+             },
+    "lastModified":  1770449976
+}

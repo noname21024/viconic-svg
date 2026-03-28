@@ -1,0 +1,18 @@
+﻿{
+    "prefix":  "gridicons",
+    "info":  {
+                 "name":  "Gridicons",
+                 "url":  "",
+                 "total":  207,
+                 "author":  {
+                                "name":  "Automattic",
+                                "url":  "https://github.com/Automattic/gridicons"
+                            },
+                 "license":  {
+                                 "title":  "GPL 2.0",
+                                 "spdx":  "GPL-2.0-only",
+                                 "url":  "https://github.com/Automattic/gridicons/blob/trunk/LICENSE.md"
+                             }
+             },
+    "lastModified":  1770449442
+}

@@ -1,0 +1,18 @@
+﻿{
+    "prefix":  "lineicons",
+    "info":  {
+                 "name":  "Lineicons",
+                 "url":  "",
+                 "total":  606,
+                 "author":  {
+                                "name":  "Lineicons",
+                                "url":  "https://github.com/LineiconsHQ/Lineicons"
+                            },
+                 "license":  {
+                                 "title":  "MIT",
+                                 "spdx":  "MIT",
+                                 "url":  "https://github.com/LineiconsHQ/Lineicons/blob/main/LICENSE.md"
+                             }
+             },
+    "lastModified":  1773150027
+}

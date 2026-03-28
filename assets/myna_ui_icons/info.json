@@ -1,0 +1,18 @@
+﻿{
+    "prefix":  "mynaui",
+    "info":  {
+                 "name":  "Myna UI Icons",
+                 "url":  "",
+                 "total":  2580,
+                 "author":  {
+                                "name":  "Praveen Juge",
+                                "url":  "https://github.com/praveenjuge/mynaui-icons"
+                            },
+                 "license":  {
+                                 "title":  "MIT",
+                                 "spdx":  "MIT",
+                                 "url":  "https://github.com/praveenjuge/mynaui-icons/blob/main/LICENSE"
+                             }
+             },
+    "lastModified":  1770449748
+}

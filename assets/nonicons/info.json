@@ -1,0 +1,18 @@
+﻿{
+    "prefix":  "nonicons",
+    "info":  {
+                 "name":  "Nonicons",
+                 "url":  "",
+                 "total":  69,
+                 "author":  {
+                                "name":  "yamatsum",
+                                "url":  "https://github.com/yamatsum/nonicons"
+                            },
+                 "license":  {
+                                 "title":  "MIT",
+                                 "spdx":  "MIT",
+                                 "url":  "https://github.com/yamatsum/nonicons/blob/master/LICENSE"
+                             }
+             },
+    "lastModified":  1770449749
+}

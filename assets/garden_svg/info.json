@@ -1,0 +1,18 @@
+﻿{
+    "prefix":  "garden",
+    "info":  {
+                 "name":  "Garden SVG Icons",
+                 "url":  "",
+                 "total":  912,
+                 "author":  {
+                                "name":  "Zendesk",
+                                "url":  "https://github.com/zendeskgarden/svg-icons"
+                            },
+                 "license":  {
+                                 "title":  "Apache 2.0",
+                                 "spdx":  "Apache-2.0",
+                                 "url":  "https://github.com/zendeskgarden/svg-icons/blob/main/LICENSE.md"
+                             }
+             },
+    "lastModified":  1770449434
+}

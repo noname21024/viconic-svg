@@ -1,0 +1,18 @@
+﻿{
+    "prefix":  "lsicon",
+    "info":  {
+                 "name":  "Lsicon",
+                 "url":  "",
+                 "total":  716,
+                 "author":  {
+                                "name":  "Wis Design",
+                                "url":  "https://www.lsicon.com/"
+                            },
+                 "license":  {
+                                 "title":  "MIT",
+                                 "spdx":  "MIT",
+                                 "url":  "https://github.com/wisdesignsystem/lsicon/blob/main/LICENSE"
+                             }
+             },
+    "lastModified":  1773150193
+}

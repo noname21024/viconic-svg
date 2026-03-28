@@ -1,0 +1,17 @@
+﻿{
+    "prefix":  "whh",
+    "info":  {
+                 "name":  "WebHostingHub Glyphs",
+                 "url":  "",
+                 "total":  2125,
+                 "author":  {
+                                "name":  "WebHostingHub"
+                            },
+                 "license":  {
+                                 "title":  "Open Font License",
+                                 "spdx":  "OFL-1.1",
+                                 "url":  "https://scripts.sil.org/cms/scripts/page.php?site_id=nrsi\u0026id=OFL"
+                             }
+             },
+    "lastModified":  1770450017
+}

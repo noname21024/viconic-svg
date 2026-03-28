@@ -1,0 +1,18 @@
+﻿{
+    "prefix":  "fa6-regular",
+    "info":  {
+                 "name":  "Font Awesome 6 Regular",
+                 "url":  "",
+                 "total":  163,
+                 "author":  {
+                                "name":  "Dave Gandy",
+                                "url":  "https://github.com/FortAwesome/Font-Awesome"
+                            },
+                 "license":  {
+                                 "title":  "CC BY 4.0",
+                                 "spdx":  "CC-BY-4.0",
+                                 "url":  "https://creativecommons.org/licenses/by/4.0/"
+                             }
+             },
+    "lastModified":  1770449275
+}

@@ -1,0 +1,18 @@
+﻿{
+    "prefix":  "vscode-icons",
+    "info":  {
+                 "name":  "VSCode Icons",
+                 "url":  "",
+                 "total":  1432,
+                 "author":  {
+                                "name":  "Roberto Huertas",
+                                "url":  "https://github.com/vscode-icons/vscode-icons"
+                            },
+                 "license":  {
+                                 "title":  "MIT",
+                                 "spdx":  "MIT",
+                                 "url":  "https://github.com/vscode-icons/vscode-icons/blob/master/LICENSE"
+                             }
+             },
+    "lastModified":  1773222264
+}

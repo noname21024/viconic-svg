@@ -1,0 +1,18 @@
+﻿{
+    "prefix":  "devicon-line",
+    "info":  {
+                 "name":  "Devicon Line",
+                 "url":  "",
+                 "total":  69,
+                 "author":  {
+                                "name":  "konpa",
+                                "url":  "https://github.com/devicons/devicon/tree/master"
+                            },
+                 "license":  {
+                                 "title":  "MIT",
+                                 "spdx":  "MIT",
+                                 "url":  "https://github.com/devicons/devicon/blob/master/LICENSE"
+                             }
+             },
+    "lastModified":  1770449234
+}

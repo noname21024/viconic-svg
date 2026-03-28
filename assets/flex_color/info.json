@@ -1,0 +1,18 @@
+﻿{
+    "prefix":  "streamline-flex-color",
+    "info":  {
+                 "name":  "Flex color icons",
+                 "url":  "",
+                 "total":  1000,
+                 "author":  {
+                                "name":  "Streamline",
+                                "url":  "https://github.com/webalys-hq/streamline-vectors"
+                            },
+                 "license":  {
+                                 "title":  "CC BY 4.0",
+                                 "spdx":  "CC-BY-4.0",
+                                 "url":  "https://creativecommons.org/licenses/by/4.0/"
+                             }
+             },
+    "lastModified":  1773132799
+}

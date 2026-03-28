@@ -1,0 +1,18 @@
+﻿{
+    "prefix":  "icon-park",
+    "info":  {
+                 "name":  "IconPark",
+                 "url":  "",
+                 "total":  2658,
+                 "author":  {
+                                "name":  "ByteDance",
+                                "url":  "https://github.com/bytedance/IconPark"
+                            },
+                 "license":  {
+                                 "title":  "Apache 2.0",
+                                 "spdx":  "Apache-2.0",
+                                 "url":  "https://github.com/bytedance/IconPark/blob/master/LICENSE"
+                             }
+             },
+    "lastModified":  1773149340
+}

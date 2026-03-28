@@ -1,0 +1,18 @@
+﻿{
+    "prefix":  "bubbles",
+    "info":  {
+                 "name":  "Bubbles",
+                 "url":  "",
+                 "total":  409,
+                 "author":  {
+                                "name":  "Leemons",
+                                "url":  "https://github.com/leemonade/bubbles"
+                            },
+                 "license":  {
+                                 "title":  "MIT",
+                                 "spdx":  "MIT",
+                                 "url":  "https://github.com/leemonade/bubbles/blob/main/LICENSE"
+                             }
+             },
+    "lastModified":  1773069100
+}

@@ -1,0 +1,18 @@
+﻿{
+    "prefix":  "eva",
+    "info":  {
+                 "name":  "Eva Icons",
+                 "url":  "",
+                 "total":  490,
+                 "author":  {
+                                "name":  "Akveo",
+                                "url":  "https://github.com/akveo/eva-icons/"
+                            },
+                 "license":  {
+                                 "title":  "MIT",
+                                 "spdx":  "MIT",
+                                 "url":  "https://github.com/akveo/eva-icons/blob/master/LICENSE.txt"
+                             }
+             },
+    "lastModified":  1770449262
+}

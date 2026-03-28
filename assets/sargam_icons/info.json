@@ -1,0 +1,18 @@
+﻿{
+    "prefix":  "si",
+    "info":  {
+                 "name":  "Sargam Icons",
+                 "url":  "",
+                 "total":  1299,
+                 "author":  {
+                                "name":  "Abhimanyu Rana",
+                                "url":  "https://github.com/planetabhi/sargam-icons"
+                            },
+                 "license":  {
+                                 "title":  "MIT",
+                                 "spdx":  "MIT",
+                                 "url":  "https://github.com/planetabhi/sargam-icons/blob/main/LICENSE.txt"
+                             }
+             },
+    "lastModified":  1773219453
+}

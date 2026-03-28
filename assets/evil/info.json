@@ -1,0 +1,18 @@
+﻿{
+    "prefix":  "ei",
+    "info":  {
+                 "name":  "Evil Icons",
+                 "url":  "",
+                 "total":  70,
+                 "author":  {
+                                "name":  "Alexander Madyankin and Roman Shamin",
+                                "url":  "https://github.com/evil-icons/evil-icons"
+                            },
+                 "license":  {
+                                 "title":  "MIT",
+                                 "spdx":  "MIT",
+                                 "url":  "https://github.com/evil-icons/evil-icons/blob/master/LICENSE.txt"
+                             }
+             },
+    "lastModified":  1773132618
+}

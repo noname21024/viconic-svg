@@ -1,0 +1,17 @@
+﻿{
+    "prefix":  "vaadin",
+    "info":  {
+                 "name":  "Vaadin Icons",
+                 "url":  "",
+                 "total":  636,
+                 "author":  {
+                                "name":  "Vaadin",
+                                "url":  "https://github.com/vaadin/web-components"
+                            },
+                 "license":  {
+                                 "title":  "Apache 2.0",
+                                 "spdx":  "Apache-2.0"
+                             }
+             },
+    "lastModified":  1771419948
+}

@@ -1,0 +1,18 @@
+﻿{
+    "prefix":  "gis",
+    "info":  {
+                 "name":  "Font-GIS",
+                 "url":  "",
+                 "total":  367,
+                 "author":  {
+                                "name":  "Jean-Marc Viglino",
+                                "url":  "https://github.com/viglino/font-gis"
+                            },
+                 "license":  {
+                                 "title":  "CC BY 4.0",
+                                 "spdx":  "CC-BY-4.0",
+                                 "url":  "https://github.com/Viglino/font-gis/blob/main/LICENSE-CC-BY.md"
+                             }
+             },
+    "lastModified":  1770449438
+}

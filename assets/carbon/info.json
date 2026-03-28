@@ -1,0 +1,17 @@
+﻿{
+    "prefix":  "carbon",
+    "info":  {
+                 "name":  "Carbon",
+                 "url":  "",
+                 "total":  2439,
+                 "author":  {
+                                "name":  "IBM",
+                                "url":  "https://github.com/carbon-design-system/carbon/tree/main/packages/icons"
+                            },
+                 "license":  {
+                                 "title":  "Apache 2.0",
+                                 "spdx":  "Apache-2.0"
+                             }
+             },
+    "lastModified":  1770449206
+}

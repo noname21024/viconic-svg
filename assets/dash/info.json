@@ -1,0 +1,18 @@
+﻿{
+    "prefix":  "dashicons",
+    "info":  {
+                 "name":  "Dashicons",
+                 "url":  "",
+                 "total":  342,
+                 "author":  {
+                                "name":  "WordPress",
+                                "url":  "https://github.com/WordPress/dashicons"
+                            },
+                 "license":  {
+                                 "title":  "GPL",
+                                 "spdx":  "GPL-2.0-or-later",
+                                 "url":  "https://github.com/WordPress/dashicons/blob/master/gpl.txt"
+                             }
+             },
+    "lastModified":  1770449234
+}

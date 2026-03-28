@@ -1,0 +1,18 @@
+﻿{
+    "prefix":  "cbi",
+    "info":  {
+                 "name":  "Custom Brand Icons",
+                 "url":  "",
+                 "total":  1491,
+                 "author":  {
+                                "name":  "Emanuele \u0026 rchiileea",
+                                "url":  "https://github.com/elax46/custom-brand-icons"
+                            },
+                 "license":  {
+                                 "title":  "CC BY-NC-SA 4.0",
+                                 "spdx":  "CC-BY-NC-SA-4.0",
+                                 "url":  "https://github.com/elax46/custom-brand-icons/blob/main/LICENSE"
+                             }
+             },
+    "lastModified":  1770449214
+}

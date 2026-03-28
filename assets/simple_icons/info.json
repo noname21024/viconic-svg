@@ -1,0 +1,18 @@
+﻿{
+    "prefix":  "simple-icons",
+    "info":  {
+                 "name":  "Simple Icons",
+                 "url":  "",
+                 "total":  3414,
+                 "author":  {
+                                "name":  "Simple Icons Collaborators",
+                                "url":  "https://github.com/simple-icons/simple-icons"
+                            },
+                 "license":  {
+                                 "title":  "CC0 1.0",
+                                 "spdx":  "CC0-1.0",
+                                 "url":  "https://github.com/simple-icons/simple-icons/blob/develop/LICENSE.md"
+                             }
+             },
+    "lastModified":  1774529922
+}

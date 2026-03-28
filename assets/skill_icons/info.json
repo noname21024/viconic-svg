@@ -1,0 +1,18 @@
+﻿{
+    "prefix":  "skill-icons",
+    "info":  {
+                 "name":  "Skill Icons",
+                 "url":  "",
+                 "total":  397,
+                 "author":  {
+                                "name":  "tandpfun",
+                                "url":  "https://github.com/tandpfun/skill-icons"
+                            },
+                 "license":  {
+                                 "title":  "MIT",
+                                 "spdx":  "MIT",
+                                 "url":  "https://github.com/tandpfun/skill-icons/blob/main/LICENSE"
+                             }
+             },
+    "lastModified":  1770449858
+}

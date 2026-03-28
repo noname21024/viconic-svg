@@ -1,0 +1,18 @@
+﻿{
+    "prefix":  "teenyicons",
+    "info":  {
+                 "name":  "Teenyicons",
+                 "url":  "",
+                 "total":  1200,
+                 "author":  {
+                                "name":  "smhmd",
+                                "url":  "https://github.com/teenyicons/teenyicons"
+                            },
+                 "license":  {
+                                 "title":  "MIT",
+                                 "spdx":  "MIT",
+                                 "url":  "https://github.com/teenyicons/teenyicons/blob/master/LICENSE"
+                             }
+             },
+    "lastModified":  1770449974
+}

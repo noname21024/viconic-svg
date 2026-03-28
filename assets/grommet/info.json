@@ -1,0 +1,18 @@
+﻿{
+    "prefix":  "grommet-icons",
+    "info":  {
+                 "name":  "Grommet Icons",
+                 "url":  "",
+                 "total":  636,
+                 "author":  {
+                                "name":  "Grommet",
+                                "url":  "https://github.com/grommet/grommet-icons"
+                            },
+                 "license":  {
+                                 "title":  "Apache 2.0",
+                                 "spdx":  "Apache-2.0",
+                                 "url":  "https://www.apache.org/licenses/LICENSE-2.0"
+                             }
+             },
+    "lastModified":  1773152467
+}

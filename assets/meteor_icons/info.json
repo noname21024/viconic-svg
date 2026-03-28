@@ -1,0 +1,18 @@
+﻿{
+    "prefix":  "meteor-icons",
+    "info":  {
+                 "name":  "Meteor Icons",
+                 "url":  "",
+                 "total":  321,
+                 "author":  {
+                                "name":  "zkreations",
+                                "url":  "https://github.com/zkreations/icons"
+                            },
+                 "license":  {
+                                 "title":  "MIT",
+                                 "spdx":  "MIT",
+                                 "url":  "https://github.com/zkreations/icons/blob/main/LICENSE"
+                             }
+             },
+    "lastModified":  1770449734
+}

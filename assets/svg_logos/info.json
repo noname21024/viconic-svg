@@ -1,0 +1,18 @@
+﻿{
+    "prefix":  "logos",
+    "info":  {
+                 "name":  "SVG Logos",
+                 "url":  "",
+                 "total":  1837,
+                 "author":  {
+                                "name":  "Gil Barbara",
+                                "url":  "https://github.com/gilbarbara/logos"
+                            },
+                 "license":  {
+                                 "title":  "CC0",
+                                 "spdx":  "CC0-1.0",
+                                 "url":  "https://raw.githubusercontent.com/gilbarbara/logos/master/LICENSE.txt"
+                             }
+             },
+    "lastModified":  1771421432
+}

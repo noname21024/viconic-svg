@@ -1,0 +1,18 @@
+﻿{
+    "prefix":  "la",
+    "info":  {
+                 "name":  "Line Awesome",
+                 "url":  "",
+                 "total":  1544,
+                 "author":  {
+                                "name":  "Icons8",
+                                "url":  "https://github.com/icons8/line-awesome"
+                            },
+                 "license":  {
+                                 "title":  "Apache 2.0",
+                                 "spdx":  "Apache-2.0",
+                                 "url":  "https://www.apache.org/licenses/LICENSE-2.0"
+                             }
+             },
+    "lastModified":  1770449554
+}

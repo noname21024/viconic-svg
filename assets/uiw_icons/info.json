@@ -1,0 +1,18 @@
+﻿{
+    "prefix":  "uiw",
+    "info":  {
+                 "name":  "uiw icons",
+                 "url":  "",
+                 "total":  214,
+                 "author":  {
+                                "name":  "liwen0526",
+                                "url":  "https://github.com/uiwjs/icons"
+                            },
+                 "license":  {
+                                 "title":  "MIT",
+                                 "spdx":  "MIT",
+                                 "url":  "https://github.com/uiwjs/icons/blob/master/LICENSE"
+                             }
+             },
+    "lastModified":  1770450003
+}

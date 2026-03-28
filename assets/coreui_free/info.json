@@ -1,0 +1,18 @@
+﻿{
+    "prefix":  "cil",
+    "info":  {
+                 "name":  "CoreUI Free",
+                 "url":  "",
+                 "total":  554,
+                 "author":  {
+                                "name":  "creativeLabs Łukasz Holeczek",
+                                "url":  "https://github.com/coreui/coreui-icons"
+                            },
+                 "license":  {
+                                 "title":  "CC BY 4.0",
+                                 "spdx":  "CC-BY-4.0",
+                                 "url":  "https://creativecommons.org/licenses/by/4.0/"
+                             }
+             },
+    "lastModified":  1770449223
+}

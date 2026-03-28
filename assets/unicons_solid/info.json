@@ -1,0 +1,18 @@
+﻿{
+    "prefix":  "uis",
+    "info":  {
+                 "name":  "Unicons Solid",
+                 "url":  "",
+                 "total":  190,
+                 "author":  {
+                                "name":  "Iconscout",
+                                "url":  "https://github.com/Iconscout/unicons"
+                            },
+                 "license":  {
+                                 "title":  "Apache 2.0",
+                                 "spdx":  "Apache-2.0",
+                                 "url":  "https://github.com/Iconscout/unicons/blob/master/LICENSE"
+                             }
+             },
+    "lastModified":  1770450001
+}

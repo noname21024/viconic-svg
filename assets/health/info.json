@@ -1,0 +1,18 @@
+﻿{
+    "prefix":  "healthicons",
+    "info":  {
+                 "name":  "Health Icons",
+                 "url":  "",
+                 "total":  2024,
+                 "author":  {
+                                "name":  "Resolve to Save Lives",
+                                "url":  "https://github.com/resolvetosavelives/healthicons"
+                            },
+                 "license":  {
+                                 "title":  "MIT",
+                                 "spdx":  "MIT",
+                                 "url":  "https://github.com/resolvetosavelives/healthicons/blob/main/LICENSE"
+                             }
+             },
+    "lastModified":  1770449452
+}

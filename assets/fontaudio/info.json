@@ -1,0 +1,18 @@
+﻿{
+    "prefix":  "fad",
+    "info":  {
+                 "name":  "FontAudio",
+                 "url":  "",
+                 "total":  155,
+                 "author":  {
+                                "name":  "@fefanto",
+                                "url":  "https://github.com/fefanto/fontaudio"
+                            },
+                 "license":  {
+                                 "title":  "CC BY 4.0",
+                                 "spdx":  "CC-BY-4.0",
+                                 "url":  "https://creativecommons.org/licenses/by/4.0/"
+                             }
+             },
+    "lastModified":  1770449288
+}

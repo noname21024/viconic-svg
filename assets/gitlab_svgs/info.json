@@ -1,0 +1,18 @@
+﻿{
+    "prefix":  "pajamas",
+    "info":  {
+                 "name":  "Gitlab SVGs",
+                 "url":  "",
+                 "total":  410,
+                 "author":  {
+                                "name":  "GitLab B.V.",
+                                "url":  "https://gitlab.com/gitlab-org/gitlab-svgs/-/tree/main"
+                            },
+                 "license":  {
+                                 "title":  "MIT",
+                                 "spdx":  "MIT",
+                                 "url":  "https://gitlab.com/gitlab-org/gitlab-svgs/-/blob/main/LICENSE"
+                             }
+             },
+    "lastModified":  1771528113
+}

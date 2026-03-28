@@ -1,0 +1,18 @@
+﻿{
+    "prefix":  "ph",
+    "info":  {
+                 "name":  "Phosphor",
+                 "url":  "",
+                 "total":  9072,
+                 "author":  {
+                                "name":  "Phosphor Icons",
+                                "url":  "https://github.com/phosphor-icons/core"
+                            },
+                 "license":  {
+                                 "title":  "MIT",
+                                 "spdx":  "MIT",
+                                 "url":  "https://github.com/phosphor-icons/core/blob/main/LICENSE"
+                             }
+             },
+    "lastModified":  1773218701
+}

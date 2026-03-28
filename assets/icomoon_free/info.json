@@ -1,0 +1,18 @@
+﻿{
+    "prefix":  "icomoon-free",
+    "info":  {
+                 "name":  "IcoMoon Free",
+                 "url":  "",
+                 "total":  491,
+                 "author":  {
+                                "name":  "Keyamoon",
+                                "url":  "https://github.com/Keyamoon/IcoMoon-Free"
+                            },
+                 "license":  {
+                                 "title":  "GPL",
+                                 "spdx":  "GPL-3.0-or-later",
+                                 "url":  "https://www.gnu.org/licenses/gpl.html"
+                             }
+             },
+    "lastModified":  1770449502
+}

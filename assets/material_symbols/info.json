@@ -1,0 +1,18 @@
+﻿{
+    "prefix":  "material-symbols",
+    "info":  {
+                 "name":  "Material Symbols",
+                 "url":  "",
+                 "total":  15096,
+                 "author":  {
+                                "name":  "Google",
+                                "url":  "https://github.com/google/material-design-icons"
+                            },
+                 "license":  {
+                                 "title":  "Apache 2.0",
+                                 "spdx":  "Apache-2.0",
+                                 "url":  "https://github.com/google/material-design-icons/blob/master/LICENSE"
+                             }
+             },
+    "lastModified":  1770449700
+}

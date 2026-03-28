@@ -1,0 +1,18 @@
+﻿{
+    "prefix":  "bytesize",
+    "info":  {
+                 "name":  "Bytesize Icons",
+                 "url":  "",
+                 "total":  101,
+                 "author":  {
+                                "name":  "Dan Klammer",
+                                "url":  "https://github.com/danklammer/bytesize-icons"
+                            },
+                 "license":  {
+                                 "title":  "MIT",
+                                 "spdx":  "MIT",
+                                 "url":  "https://github.com/danklammer/bytesize-icons/blob/master/LICENSE.md"
+                             }
+             },
+    "lastModified":  1770449200
+}

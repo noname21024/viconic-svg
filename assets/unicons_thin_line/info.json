@@ -1,0 +1,18 @@
+﻿{
+    "prefix":  "uit",
+    "info":  {
+                 "name":  "Unicons Thin Line",
+                 "url":  "",
+                 "total":  216,
+                 "author":  {
+                                "name":  "Iconscout",
+                                "url":  "https://github.com/Iconscout/unicons"
+                            },
+                 "license":  {
+                                 "title":  "Apache 2.0",
+                                 "spdx":  "Apache-2.0",
+                                 "url":  "https://github.com/Iconscout/unicons/blob/master/LICENSE"
+                             }
+             },
+    "lastModified":  1770450002
+}

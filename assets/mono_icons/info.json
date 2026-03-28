@@ -1,0 +1,18 @@
+﻿{
+    "prefix":  "mono-icons",
+    "info":  {
+                 "name":  "Mono Icons",
+                 "url":  "",
+                 "total":  180,
+                 "author":  {
+                                "name":  "Mono",
+                                "url":  "https://github.com/mono-company/mono-icons"
+                            },
+                 "license":  {
+                                 "title":  "MIT",
+                                 "spdx":  "MIT",
+                                 "url":  "https://github.com/mono-company/mono-icons/blob/master/LICENSE.md"
+                             }
+             },
+    "lastModified":  1770449743
+}

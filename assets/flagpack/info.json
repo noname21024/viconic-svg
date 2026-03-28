@@ -1,0 +1,18 @@
+﻿{
+    "prefix":  "flagpack",
+    "info":  {
+                 "name":  "Flagpack",
+                 "url":  "",
+                 "total":  254,
+                 "author":  {
+                                "name":  "Yummygum",
+                                "url":  "https://github.com/Yummygum/flagpack-core"
+                            },
+                 "license":  {
+                                 "title":  "MIT",
+                                 "spdx":  "MIT",
+                                 "url":  "https://github.com/Yummygum/flagpack-core/blob/main/LICENSE"
+                             }
+             },
+    "lastModified":  1770449300
+}

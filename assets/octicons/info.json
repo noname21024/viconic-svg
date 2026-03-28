@@ -1,0 +1,18 @@
+﻿{
+    "prefix":  "octicon",
+    "info":  {
+                 "name":  "Octicons",
+                 "url":  "",
+                 "total":  720,
+                 "author":  {
+                                "name":  "GitHub",
+                                "url":  "https://github.com/primer/octicons/"
+                            },
+                 "license":  {
+                                 "title":  "MIT",
+                                 "spdx":  "MIT",
+                                 "url":  "https://github.com/primer/octicons/blob/main/LICENSE"
+                             }
+             },
+    "lastModified":  1771420287
+}

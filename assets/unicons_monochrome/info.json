@@ -1,0 +1,18 @@
+﻿{
+    "prefix":  "uim",
+    "info":  {
+                 "name":  "Unicons Monochrome",
+                 "url":  "",
+                 "total":  298,
+                 "author":  {
+                                "name":  "Iconscout",
+                                "url":  "https://github.com/Iconscout/unicons"
+                            },
+                 "license":  {
+                                 "title":  "Apache 2.0",
+                                 "spdx":  "Apache-2.0",
+                                 "url":  "https://github.com/Iconscout/unicons/blob/master/LICENSE"
+                             }
+             },
+    "lastModified":  1773222054
+}

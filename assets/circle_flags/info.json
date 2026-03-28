@@ -1,0 +1,18 @@
+﻿{
+    "prefix":  "circle-flags",
+    "info":  {
+                 "name":  "Circle Flags",
+                 "url":  "",
+                 "total":  634,
+                 "author":  {
+                                "name":  "HatScripts",
+                                "url":  "https://github.com/HatScripts/circle-flags"
+                            },
+                 "license":  {
+                                 "title":  "MIT",
+                                 "spdx":  "MIT",
+                                 "url":  "https://github.com/HatScripts/circle-flags/blob/gh-pages/LICENSE"
+                             }
+             },
+    "lastModified":  1770449223
+}

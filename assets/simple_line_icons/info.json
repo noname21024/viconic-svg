@@ -1,0 +1,18 @@
+﻿{
+    "prefix":  "simple-line-icons",
+    "info":  {
+                 "name":  "Simple line icons",
+                 "url":  "",
+                 "total":  189,
+                 "author":  {
+                                "name":  "Sabbir Ahmed",
+                                "url":  "https://github.com/thesabbir/simple-line-icons"
+                            },
+                 "license":  {
+                                 "title":  "MIT",
+                                 "spdx":  "MIT",
+                                 "url":  "https://github.com/thesabbir/simple-line-icons/blob/master/LICENSE.md"
+                             }
+             },
+    "lastModified":  1770449857
+}

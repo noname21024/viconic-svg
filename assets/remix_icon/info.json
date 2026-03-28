@@ -1,0 +1,18 @@
+﻿{
+    "prefix":  "ri",
+    "info":  {
+                 "name":  "Remix Icon",
+                 "url":  "",
+                 "total":  3188,
+                 "author":  {
+                                "name":  "Remix Design",
+                                "url":  "https://github.com/Remix-Design/RemixIcon"
+                            },
+                 "license":  {
+                                 "title":  "Apache 2.0",
+                                 "spdx":  "Apache-2.0",
+                                 "url":  "https://github.com/Remix-Design/RemixIcon/blob/master/License"
+                             }
+             },
+    "lastModified":  1770449835
+}

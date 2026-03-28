@@ -1,0 +1,18 @@
+﻿{
+    "prefix":  "proicons",
+    "info":  {
+                 "name":  "ProIcons",
+                 "url":  "",
+                 "total":  537,
+                 "author":  {
+                                "name":  "ProCode",
+                                "url":  "https://github.com/ProCode-Software/proicons"
+                            },
+                 "license":  {
+                                 "title":  "MIT",
+                                 "spdx":  "MIT",
+                                 "url":  "https://github.com/ProCode-Software/proicons/blob/main/LICENSE"
+                             }
+             },
+    "lastModified":  1770449820
+}

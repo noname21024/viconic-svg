@@ -1,0 +1,18 @@
+﻿{
+    "prefix":  "fluent-color",
+    "info":  {
+                 "name":  "Fluent UI System Color Icons",
+                 "url":  "",
+                 "total":  890,
+                 "author":  {
+                                "name":  "Microsoft Corporation",
+                                "url":  "https://github.com/microsoft/fluentui-system-icons"
+                            },
+                 "license":  {
+                                 "title":  "MIT",
+                                 "spdx":  "MIT",
+                                 "url":  "https://github.com/microsoft/fluentui-system-icons/blob/main/LICENSE"
+                             }
+             },
+    "lastModified":  1770449303
+}

@@ -1,0 +1,18 @@
+﻿{
+    "prefix":  "bxs",
+    "info":  {
+                 "name":  "BoxIcons Solid",
+                 "url":  "",
+                 "total":  665,
+                 "author":  {
+                                "name":  "Atisa",
+                                "url":  "https://github.com/atisawd/boxicons"
+                            },
+                 "license":  {
+                                 "title":  "CC BY 4.0",
+                                 "spdx":  "CC-BY-4.0",
+                                 "url":  "https://creativecommons.org/licenses/by/4.0/"
+                             }
+             },
+    "lastModified":  1770449199
+}

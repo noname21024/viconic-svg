@@ -1,0 +1,17 @@
+﻿{
+    "prefix":  "hugeicons",
+    "info":  {
+                 "name":  "Huge Icons",
+                 "url":  "",
+                 "total":  4653,
+                 "author":  {
+                                "name":  "Hugeicons",
+                                "url":  "https://icon-sets.iconify.design/icon-sets/hugeicons/"
+                            },
+                 "license":  {
+                                 "title":  "MIT",
+                                 "spdx":  "MIT"
+                             }
+             },
+    "lastModified":  1770449469
+}

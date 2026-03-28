@@ -1,0 +1,18 @@
+﻿{
+    "prefix":  "emojione",
+    "info":  {
+                 "name":  "Emoji One (Colored)",
+                 "url":  "",
+                 "total":  1834,
+                 "author":  {
+                                "name":  "Emoji One",
+                                "url":  "https://github.com/EmojiTwo/emojitwo"
+                            },
+                 "license":  {
+                                 "title":  "CC BY 4.0",
+                                 "spdx":  "CC-BY-4.0",
+                                 "url":  "https://creativecommons.org/licenses/by/4.0/"
+                             }
+             },
+    "lastModified":  1770449257
+}

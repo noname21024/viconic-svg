@@ -1,0 +1,18 @@
+﻿{
+    "prefix":  "ps",
+    "info":  {
+                 "name":  "PrestaShop Icons",
+                 "url":  "",
+                 "total":  479,
+                 "author":  {
+                                "name":  "PrestaShop",
+                                "url":  "https://github.com/PrestaShop/prestashop-icon-font"
+                            },
+                 "license":  {
+                                 "title":  "CC BY-NC 4.0",
+                                 "spdx":  "CC-BY-NC-4.0",
+                                 "url":  "https://creativecommons.org/licenses/by-nc/4.0/"
+                             }
+             },
+    "lastModified":  1770449821
+}

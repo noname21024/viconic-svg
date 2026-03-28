@@ -1,0 +1,17 @@
+﻿{
+    "prefix":  "weui",
+    "info":  {
+                 "name":  "WeUI Icon",
+                 "url":  "",
+                 "total":  162,
+                 "author":  {
+                                "name":  "WeUI",
+                                "url":  "https://github.com/weui/weui-icon"
+                            },
+                 "license":  {
+                                 "title":  "MIT",
+                                 "spdx":  "MIT"
+                             }
+             },
+    "lastModified":  1770450009
+}

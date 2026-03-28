@@ -1,0 +1,18 @@
+﻿{
+    "prefix":  "cryptocurrency-color",
+    "info":  {
+                 "name":  "Cryptocurrency Color Icons",
+                 "url":  "",
+                 "total":  483,
+                 "author":  {
+                                "name":  "Christopher Downer",
+                                "url":  "https://github.com/atomiclabs/cryptocurrency-icons"
+                            },
+                 "license":  {
+                                 "title":  "CC0 1.0",
+                                 "spdx":  "CC0-1.0",
+                                 "url":  "https://creativecommons.org/publicdomain/zero/1.0/"
+                             }
+             },
+    "lastModified":  1770449230
+}

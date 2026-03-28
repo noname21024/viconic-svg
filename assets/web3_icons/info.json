@@ -1,0 +1,18 @@
+﻿{
+    "prefix":  "token",
+    "info":  {
+                 "name":  "Web3 Icons",
+                 "url":  "",
+                 "total":  1769,
+                 "author":  {
+                                "name":  "0xa3k5",
+                                "url":  "https://github.com/0xa3k5/web3icons"
+                            },
+                 "license":  {
+                                 "title":  "MIT",
+                                 "spdx":  "MIT",
+                                 "url":  "https://github.com/0xa3k5/web3icons/blob/main/LICENCE"
+                             }
+             },
+    "lastModified":  1773222427
+}

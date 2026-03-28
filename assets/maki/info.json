@@ -1,0 +1,18 @@
+﻿{
+    "prefix":  "maki",
+    "info":  {
+                 "name":  "Maki",
+                 "url":  "",
+                 "total":  215,
+                 "author":  {
+                                "name":  "Mapbox",
+                                "url":  "https://github.com/mapbox/maki"
+                            },
+                 "license":  {
+                                 "title":  "CC0",
+                                 "spdx":  "CC0-1.0",
+                                 "url":  "https://creativecommons.org/publicdomain/zero/1.0/"
+                             }
+             },
+    "lastModified":  1770449582
+}

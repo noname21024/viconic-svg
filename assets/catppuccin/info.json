@@ -1,0 +1,18 @@
+﻿{
+    "prefix":  "catppuccin",
+    "info":  {
+                 "name":  "Catppuccin Icons",
+                 "url":  "",
+                 "total":  656,
+                 "author":  {
+                                "name":  "Catppuccin",
+                                "url":  "https://github.com/catppuccin/vscode-icons"
+                            },
+                 "license":  {
+                                 "title":  "MIT",
+                                 "spdx":  "MIT",
+                                 "url":  "https://github.com/catppuccin/vscode-icons/blob/main/LICENSE"
+                             }
+             },
+    "lastModified":  1773072513
+}
