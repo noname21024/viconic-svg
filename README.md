@@ -74,10 +74,10 @@ Each `info.json` contains:
 
 ## 🎯 Popular Collections
 
-- **Tabler Icons** (4,000+) - Pixel-perfect, MIT
-- **Lucide** (1,400+) - Beautiful & consistent, ISC
-- **Heroicons** (300+) - By Tailwind CSS, MIT
-- **Bootstrap Icons** (2,000+) - Official Bootstrap, MIT
+- **Tabler Icons** (6,080) MIT
+- **Lucide** (1,703) ISC
+- **Heroicons** (1288) MIT
+- **Bootstrap Icons** (2,080) -By Bootstrap, MIT
 - **Font Awesome** (2,000+) - Most popular, Multiple licenses
 - **Material Design Icons** (7,000+) - Google, Apache 2.0
 - **Feather Icons** (280+) - Simply beautiful, MIT
@@ -100,7 +100,7 @@ Each collection has its own license (MIT, Apache 2.0, CC BY 4.0, etc.). Always c
 Want to add collections or report issues?
 
 - **Contact**: [viconic.io.vn/contact](https://viconic.io.vn/contact)
-- **Email**: support@viconic.io.vn
+- **Email**: hello@viconic.io.vn
 
 ## 🌐 Connect
 
