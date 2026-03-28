@@ -1,13 +1,13 @@
 # VICONIC-SVG
-[![Viconic Website Interface](logo.svg)](https://www.viconic.io.vn)
+[![Viconic Website Interface](logo.svg)](https://www.viconic.dev)
 
 **200,000+ open-source SVG icons from 230+ collections, organized and ready to use.**
 
 ## 🚀 Recommended: Use Online
 
-[![Viconic Website Interface](Thumnail.png)](https://www.viconic.io.vn/search)
+[![Viconic Website Interface](Thumnail.png)](https://www.viconic.dev/search)
 
-Visit **[viconic.io.vn](https://viconic.io.vn)** for the best experience:
+Visit **[viconic.dev](https://viconic.dev)** for the best experience:
 
 - 🔍 **Instant Search** - Find icons across 200,000+ icons in milliseconds
 - 📋 **One-Click Copy** - HTML, React, SVG, or CDN code
@@ -31,7 +31,7 @@ import { ViconicIcon } from "viconic-react-icons";
 ## 🌐 Alternative: Use CDN
 
 ```html
-<script src="https://cdn.viconic.io.vn/js/copyicons-smart-loader.min.js"></script>
+<script src="https://cdn.viconic.dev/js/copyicons-smart-loader.min.js"></script>
 <viconic-icon icon="ti:home"></viconic-icon>
 ```
 
@@ -86,10 +86,10 @@ Each `info.json` contains:
 
 ## 📖 Documentation
 
-- **Website**: [viconic.io.vn](https://viconic.io.vn)
-- **Docs**: [viconic.io.vn/docs](https://viconic.io.vn/docs)
-- **Search**: [viconic.io.vn/search](https://viconic.io.vn/search)
-- **Collections**: [viconic.io.vn/icons](https://viconic.io.vn/icons)
+- **Website**: [viconic.dev](https://viconic.dev)
+- **Docs**: [viconic.dev/docs](https://viconic.dev/docs)
+- **Search**: [viconic.dev/search](https://viconic.dev/search)
+- **Collections**: [viconic.dev/icons](https://viconic.dev/icons)
 
 ## 📄 Licenses
 
@@ -99,8 +99,8 @@ Each collection has its own license (MIT, Apache 2.0, CC BY 4.0, etc.). Always c
 
 Want to add collections or report issues?
 
-- **Contact**: [viconic.io.vn/contact](https://viconic.io.vn/contact)
-- **Email**: hello@viconic.io.vn
+- **Contact**: [viconic.dev/contact](https://viconic.dev/contact)
+- **Email**: hello@viconic.dev
 
 ## 🌐 Connect
 
@@ -130,9 +130,9 @@ Want to add collections or report issues?
 
 ## 💡 Pro Tip
 
-**Don't clone this repo unless you need offline access.** Use [viconic.io.vn](https://viconic.io.vn) for instant access, better search, and automatic updates.
+**Don't clone this repo unless you need offline access.** Use [viconic.dev](https://viconic.dev) for instant access, better search, and automatic updates.
 
 ---
 
 **Made with ❤️ by VICONIC**  
-© 2026 viconic.io.vn
+© 2026 viconic.dev
