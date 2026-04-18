@@ -1,18 +1,18 @@
-﻿{
-    "prefix":  "humbleicons",
-    "info":  {
-                 "name":  "Humbleicons",
-                 "url":  "",
-                 "total":  286,
-                 "author":  {
-                                "name":  "Jiří Zralý",
-                                "url":  "https://github.com/zraly/humbleicons"
-                            },
-                 "license":  {
-                                 "title":  "MIT",
-                                 "spdx":  "MIT",
-                                 "url":  "https://github.com/zraly/humbleicons/blob/master/license"
-                             }
-             },
-    "lastModified":  1770449470
+{
+  "prefix": "humbleicons",
+  "info": {
+    "name": "Humbleicons",
+    "url": "",
+    "total": 286,
+    "author": {
+      "name": "Jiří Zralý",
+      "url": "https://github.com/zraly/humbleicons"
+    },
+    "license": {
+      "title": "MIT",
+      "spdx": "MIT",
+      "url": "https://github.com/zraly/humbleicons/blob/master/license"
+    }
+  },
+  "lastModified": 1770449470
 }

@@ -1,18 +1,18 @@
-﻿{
-    "prefix":  "ix",
-    "info":  {
-                 "name":  "Siemens Industrial Experience Icons",
-                 "url":  "",
-                 "total":  1415,
-                 "author":  {
-                                "name":  "Siemens AG",
-                                "url":  "https://github.com/siemens/ix-icons"
-                            },
-                 "license":  {
-                                 "title":  "MIT",
-                                 "spdx":  "MIT",
-                                 "url":  "https://github.com/siemens/ix-icons/blob/main/LICENSE.md"
-                             }
-             },
-    "lastModified":  1770449545
+{
+  "prefix": "ix",
+  "info": {
+    "name": "Siemens Industrial Experience Icons",
+    "url": "",
+    "total": 1415,
+    "author": {
+      "name": "Siemens AG",
+      "url": "https://github.com/siemens/ix-icons"
+    },
+    "license": {
+      "title": "MIT",
+      "spdx": "MIT",
+      "url": "https://github.com/siemens/ix-icons/blob/main/LICENSE.md"
+    }
+  },
+  "lastModified": 1770449545
 }

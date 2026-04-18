@@ -1,18 +1,18 @@
-﻿{
-    "prefix":  "bxl",
-    "info":  {
-                 "name":  "BoxIcons Logo",
-                 "url":  "",
-                 "total":  155,
-                 "author":  {
-                                "name":  "Atisa",
-                                "url":  "https://github.com/atisawd/boxicons"
-                            },
-                 "license":  {
-                                 "title":  "CC BY 4.0",
-                                 "spdx":  "CC-BY-4.0",
-                                 "url":  "https://creativecommons.org/licenses/by/4.0/"
-                             }
-             },
-    "lastModified":  1770449198
+{
+  "prefix": "bxl",
+  "info": {
+    "name": "BoxIcons Logo",
+    "url": "",
+    "total": 155,
+    "author": {
+      "name": "Atisa",
+      "url": "https://github.com/atisawd/boxicons"
+    },
+    "license": {
+      "title": "CC BY 4.0",
+      "spdx": "CC-BY-4.0",
+      "url": "https://creativecommons.org/licenses/by/4.0/"
+    }
+  },
+  "lastModified": 1770449198
 }

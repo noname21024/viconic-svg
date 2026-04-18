@@ -1,18 +1,18 @@
-﻿{
-    "prefix":  "pepicons-pencil",
-    "info":  {
-                 "name":  "Pepicons Pencil",
-                 "url":  "",
-                 "total":  1275,
-                 "author":  {
-                                "name":  "CyCraft",
-                                "url":  "https://github.com/CyCraft/pepicons"
-                            },
-                 "license":  {
-                                 "title":  "CC BY 4.0",
-                                 "spdx":  "CC-BY-4.0",
-                                 "url":  "https://github.com/CyCraft/pepicons/blob/dev/LICENSE"
-                             }
-             },
-    "lastModified":  1773218002
+{
+  "prefix": "pepicons-pencil",
+  "info": {
+    "name": "Pepicons Pencil",
+    "url": "",
+    "total": 1275,
+    "author": {
+      "name": "CyCraft",
+      "url": "https://github.com/CyCraft/pepicons"
+    },
+    "license": {
+      "title": "CC BY 4.0",
+      "spdx": "CC-BY-4.0",
+      "url": "https://github.com/CyCraft/pepicons/blob/dev/LICENSE"
+    }
+  },
+  "lastModified": 1773218002
 }

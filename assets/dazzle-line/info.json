@@ -1,17 +1,17 @@
-﻿{
-    "prefix":  "svgrepo",
-    "info":  {
-                 "name":  "dazzle-line-icons",
-                 "url":  "https://www.svgrepo.com/collection/dazzle-line-icons/",
-                 "total":  1716,
-                 "author":  {
-                                "name":  "Dazzle UI",
-                                "url":  "https://www.svgrepo.com/author/Dazzle%20UI/"
-                            },
-                 "license":  {
-                                 "title":  "CC Attribution License",
-                                 "url":  "https://www.svgrepo.com/page/licensing/#CC%20Attribution"
-                             }
-             },
-    "lastModified":  1773924372
+{
+  "prefix": "svgrepo",
+  "info": {
+    "name": "dazzle-line-icons",
+    "url": "https://www.svgrepo.com/collection/dazzle-line-icons/",
+    "total": 1716,
+    "author": {
+      "name": "Dazzle UI",
+      "url": "https://www.svgrepo.com/author/Dazzle%20UI/"
+    },
+    "license": {
+      "title": "CC Attribution License",
+      "url": "https://www.svgrepo.com/page/licensing/#CC%20Attribution"
+    }
+  },
+  "lastModified": 1773924372
 }

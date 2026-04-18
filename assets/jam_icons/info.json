@@ -1,18 +1,18 @@
-﻿{
-    "prefix":  "jam",
-    "info":  {
-                 "name":  "Jam Icons",
-                 "url":  "",
-                 "total":  940,
-                 "author":  {
-                                "name":  "Michael Amprimo",
-                                "url":  "https://github.com/michaelampr"
-                            },
-                 "license":  {
-                                 "title":  "MIT",
-                                 "spdx":  "MIT",
-                                 "url":  "https://github.com/cyberalien/jam-backup/blob/main/LICENSE"
-                             }
-             },
-    "lastModified":  1770449548
+{
+  "prefix": "jam",
+  "info": {
+    "name": "Jam Icons",
+    "url": "",
+    "total": 940,
+    "author": {
+      "name": "Michael Amprimo",
+      "url": "https://github.com/michaelampr"
+    },
+    "license": {
+      "title": "MIT",
+      "spdx": "MIT",
+      "url": "https://github.com/cyberalien/jam-backup/blob/main/LICENSE"
+    }
+  },
+  "lastModified": 1770449548
 }

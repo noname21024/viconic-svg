@@ -1,16 +1,16 @@
-﻿{
-    "prefix":  "marketeq",
-    "info":  {
-                 "name":  "Marketeq",
-                 "url":  "",
-                 "total":  590,
-                 "author":  {
-                                "name":  "Marketeq"
-                            },
-                 "license":  {
-                                 "title":  "MIT",
-                                 "spdx":  "MIT"
-                             }
-             },
-    "lastModified":  1773150749
+{
+  "prefix": "marketeq",
+  "info": {
+    "name": "Marketeq",
+    "url": "",
+    "total": 590,
+    "author": {
+      "name": "Marketeq"
+    },
+    "license": {
+      "title": "MIT",
+      "spdx": "MIT"
+    }
+  },
+  "lastModified": 1773150749
 }

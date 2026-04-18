@@ -1,18 +1,18 @@
-﻿{
-    "prefix":  "ooui",
-    "info":  {
-                 "name":  "OOUI",
-                 "url":  "",
-                 "total":  370,
-                 "author":  {
-                                "name":  "OOUI Team",
-                                "url":  "https://github.com/wikimedia/oojs-ui"
-                            },
-                 "license":  {
-                                 "title":  "MIT",
-                                 "spdx":  "MIT",
-                                 "url":  "https://github.com/wikimedia/oojs-ui/blob/master/LICENSE-MIT"
-                             }
-             },
-    "lastModified":  1770449770
+{
+  "prefix": "ooui",
+  "info": {
+    "name": "OOUI",
+    "url": "",
+    "total": 370,
+    "author": {
+      "name": "OOUI Team",
+      "url": "https://github.com/wikimedia/oojs-ui"
+    },
+    "license": {
+      "title": "MIT",
+      "spdx": "MIT",
+      "url": "https://github.com/wikimedia/oojs-ui/blob/master/LICENSE-MIT"
+    }
+  },
+  "lastModified": 1770449770
 }

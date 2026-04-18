@@ -1,18 +1,18 @@
-﻿{
-    "prefix":  "ci",
-    "info":  {
-                 "name":  "coolicons",
-                 "url":  "",
-                 "total":  442,
-                 "author":  {
-                                "name":  "Kryston Schwarze",
-                                "url":  "https://github.com/krystonschwarze/coolicons"
-                            },
-                 "license":  {
-                                 "title":  "CC BY 4.0",
-                                 "spdx":  "CC-BY-4.0",
-                                 "url":  "https://creativecommons.org/licenses/by/4.0/"
-                             }
-             },
-    "lastModified":  1770449217
+{
+  "prefix": "ci",
+  "info": {
+    "name": "coolicons",
+    "url": "",
+    "total": 442,
+    "author": {
+      "name": "Kryston Schwarze",
+      "url": "https://github.com/krystonschwarze/coolicons"
+    },
+    "license": {
+      "title": "CC BY 4.0",
+      "spdx": "CC-BY-4.0",
+      "url": "https://creativecommons.org/licenses/by/4.0/"
+    }
+  },
+  "lastModified": 1770449217
 }

@@ -1,18 +1,18 @@
-﻿{
-    "prefix":  "fontisto",
-    "info":  {
-                 "name":  "Fontisto",
-                 "url":  "",
-                 "total":  615,
-                 "author":  {
-                                "name":  "Kenan Gündoğan",
-                                "url":  "https://github.com/kenangundogan/fontisto"
-                            },
-                 "license":  {
-                                 "title":  "MIT",
-                                 "spdx":  "MIT",
-                                 "url":  "https://github.com/kenangundogan/fontisto/blob/master/LICENSE"
-                             }
-             },
-    "lastModified":  1770449413
+{
+  "prefix": "fontisto",
+  "info": {
+    "name": "Fontisto",
+    "url": "",
+    "total": 615,
+    "author": {
+      "name": "Kenan Gündoğan",
+      "url": "https://github.com/kenangundogan/fontisto"
+    },
+    "license": {
+      "title": "MIT",
+      "spdx": "MIT",
+      "url": "https://github.com/kenangundogan/fontisto/blob/master/LICENSE"
+    }
+  },
+  "lastModified": 1770449413
 }

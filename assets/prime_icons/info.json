@@ -1,18 +1,18 @@
-﻿{
-    "prefix":  "prime",
-    "info":  {
-                 "name":  "Prime Icons",
-                 "url":  "",
-                 "total":  313,
-                 "author":  {
-                                "name":  "PrimeTek",
-                                "url":  "https://github.com/primefaces/primeicons"
-                            },
-                 "license":  {
-                                 "title":  "MIT",
-                                 "spdx":  "MIT",
-                                 "url":  "https://github.com/primefaces/primeicons/blob/master/LICENSE"
-                             }
-             },
-    "lastModified":  1773218575
+{
+  "prefix": "prime",
+  "info": {
+    "name": "Prime Icons",
+    "url": "",
+    "total": 313,
+    "author": {
+      "name": "PrimeTek",
+      "url": "https://github.com/primefaces/primeicons"
+    },
+    "license": {
+      "title": "MIT",
+      "spdx": "MIT",
+      "url": "https://github.com/primefaces/primeicons/blob/master/LICENSE"
+    }
+  },
+  "lastModified": 1773218575
 }

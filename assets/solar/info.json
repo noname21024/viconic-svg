@@ -1,18 +1,18 @@
-﻿{
-    "prefix":  "solar",
-    "info":  {
-                 "name":  "Solar",
-                 "url":  "",
-                 "total":  7401,
-                 "author":  {
-                                "name":  "480 Design",
-                                "url":  "https://www.figma.com/community/file/1166831539721848736"
-                            },
-                 "license":  {
-                                 "title":  "CC BY 4.0",
-                                 "spdx":  "CC-BY-4.0",
-                                 "url":  "https://creativecommons.org/licenses/by/4.0/"
-                             }
-             },
-    "lastModified":  1773220324
+{
+  "prefix": "solar",
+  "info": {
+    "name": "Solar",
+    "url": "",
+    "total": 7401,
+    "author": {
+      "name": "480 Design",
+      "url": "https://www.figma.com/community/file/1166831539721848736"
+    },
+    "license": {
+      "title": "CC BY 4.0",
+      "spdx": "CC-BY-4.0",
+      "url": "https://creativecommons.org/licenses/by/4.0/"
+    }
+  },
+  "lastModified": 1773220324
 }

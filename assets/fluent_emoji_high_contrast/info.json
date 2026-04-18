@@ -1,18 +1,18 @@
-﻿{
-    "prefix":  "fluent-emoji-high-contrast",
-    "info":  {
-                 "name":  "Fluent Emoji High Contrast",
-                 "url":  "",
-                 "total":  1594,
-                 "author":  {
-                                "name":  "Microsoft Corporation",
-                                "url":  "https://github.com/microsoft/fluentui-emoji"
-                            },
-                 "license":  {
-                                 "title":  "MIT",
-                                 "spdx":  "MIT",
-                                 "url":  "https://github.com/microsoft/fluentui-emoji/blob/main/LICENSE"
-                             }
-             },
-    "lastModified":  1773133755
+{
+  "prefix": "fluent-emoji-high-contrast",
+  "info": {
+    "name": "Fluent Emoji High Contrast",
+    "url": "",
+    "total": 1594,
+    "author": {
+      "name": "Microsoft Corporation",
+      "url": "https://github.com/microsoft/fluentui-emoji"
+    },
+    "license": {
+      "title": "MIT",
+      "spdx": "MIT",
+      "url": "https://github.com/microsoft/fluentui-emoji/blob/main/LICENSE"
+    }
+  },
+  "lastModified": 1773133755
 }

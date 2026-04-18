@@ -1,18 +1,18 @@
-﻿{
-    "prefix":  "flowbite",
-    "info":  {
-                 "name":  "Flowbite Icons",
-                 "url":  "",
-                 "total":  751,
-                 "author":  {
-                                "name":  "Themesberg",
-                                "url":  "https://github.com/themesberg/flowbite-icons"
-                            },
-                 "license":  {
-                                 "title":  "MIT",
-                                 "spdx":  "MIT",
-                                 "url":  "https://github.com/themesberg/flowbite-icons/blob/main/LICENSE"
-                             }
-             },
-    "lastModified":  1770449302
+{
+  "prefix": "flowbite",
+  "info": {
+    "name": "Flowbite Icons",
+    "url": "",
+    "total": 751,
+    "author": {
+      "name": "Themesberg",
+      "url": "https://github.com/themesberg/flowbite-icons"
+    },
+    "license": {
+      "title": "MIT",
+      "spdx": "MIT",
+      "url": "https://github.com/themesberg/flowbite-icons/blob/main/LICENSE"
+    }
+  },
+  "lastModified": 1770449302
 }

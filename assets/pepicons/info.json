@@ -1,18 +1,18 @@
-﻿{
-    "prefix":  "pepicons",
-    "info":  {
-                 "name":  "Pepicons",
-                 "url":  "",
-                 "total":  428,
-                 "author":  {
-                                "name":  "CyCraft",
-                                "url":  "https://github.com/CyCraft/pepicons"
-                            },
-                 "license":  {
-                                 "title":  "CC BY 4.0",
-                                 "spdx":  "CC-BY-4.0",
-                                 "url":  "https://github.com/CyCraft/pepicons/blob/dev/LICENSE"
-                             }
-             },
-    "lastModified":  1773217906
+{
+  "prefix": "pepicons",
+  "info": {
+    "name": "Pepicons",
+    "url": "",
+    "total": 428,
+    "author": {
+      "name": "CyCraft",
+      "url": "https://github.com/CyCraft/pepicons"
+    },
+    "license": {
+      "title": "CC BY 4.0",
+      "spdx": "CC-BY-4.0",
+      "url": "https://github.com/CyCraft/pepicons/blob/dev/LICENSE"
+    }
+  },
+  "lastModified": 1773217906
 }

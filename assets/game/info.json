@@ -1,18 +1,18 @@
-﻿{
-    "prefix":  "game-icons",
-    "info":  {
-                 "name":  "Game Icons",
-                 "url":  "",
-                 "total":  4123,
-                 "author":  {
-                                "name":  "GameIcons",
-                                "url":  "https://github.com/game-icons/icons"
-                            },
-                 "license":  {
-                                 "title":  "CC BY 3.0",
-                                 "spdx":  "CC-BY-3.0",
-                                 "url":  "https://github.com/game-icons/icons/blob/master/license.txt"
-                             }
-             },
-    "lastModified":  1770449432
+{
+  "prefix": "game-icons",
+  "info": {
+    "name": "Game Icons",
+    "url": "",
+    "total": 4123,
+    "author": {
+      "name": "GameIcons",
+      "url": "https://github.com/game-icons/icons"
+    },
+    "license": {
+      "title": "CC BY 3.0",
+      "spdx": "CC-BY-3.0",
+      "url": "https://github.com/game-icons/icons/blob/master/license.txt"
+    }
+  },
+  "lastModified": 1770449432
 }

@@ -1,18 +1,18 @@
-﻿{
-    "prefix":  "akar-icons",
-    "info":  {
-                 "name":  "Akar Icons",
-                 "url":  "",
-                 "total":  454,
-                 "author":  {
-                                "name":  "Arturo Wibawa",
-                                "url":  "https://github.com/artcoholic/akar-icons"
-                            },
-                 "license":  {
-                                 "title":  "MIT",
-                                 "spdx":  "MIT",
-                                 "url":  "https://github.com/artcoholic/akar-icons/blob/master/LICENSE"
-                             }
-             },
-    "lastModified":  1773065313
+{
+  "prefix": "akar-icons",
+  "info": {
+    "name": "Akar Icons",
+    "url": "",
+    "total": 454,
+    "author": {
+      "name": "Arturo Wibawa",
+      "url": "https://github.com/artcoholic/akar-icons"
+    },
+    "license": {
+      "title": "MIT",
+      "spdx": "MIT",
+      "url": "https://github.com/artcoholic/akar-icons/blob/master/LICENSE"
+    }
+  },
+  "lastModified": 1773065313
 }

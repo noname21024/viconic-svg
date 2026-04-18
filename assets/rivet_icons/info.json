@@ -1,18 +1,18 @@
-﻿{
-    "prefix":  "rivet-icons",
-    "info":  {
-                 "name":  "Rivet Icons",
-                 "url":  "",
-                 "total":  210,
-                 "author":  {
-                                "name":  "Indiana University",
-                                "url":  "https://github.com/indiana-university/rivet-icons"
-                            },
-                 "license":  {
-                                 "title":  "BSD 3-Clause",
-                                 "spdx":  "BSD-3-Clause",
-                                 "url":  "https://github.com/indiana-university/rivet-icons/blob/develop/LICENSE"
-                             }
-             },
-    "lastModified":  1770449835
+{
+  "prefix": "rivet-icons",
+  "info": {
+    "name": "Rivet Icons",
+    "url": "",
+    "total": 210,
+    "author": {
+      "name": "Indiana University",
+      "url": "https://github.com/indiana-university/rivet-icons"
+    },
+    "license": {
+      "title": "BSD 3-Clause",
+      "spdx": "BSD-3-Clause",
+      "url": "https://github.com/indiana-university/rivet-icons/blob/develop/LICENSE"
+    }
+  },
+  "lastModified": 1770449835
 }

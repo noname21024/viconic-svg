@@ -1,18 +1,18 @@
-﻿{
-    "prefix":  "file-icons",
-    "info":  {
-                 "name":  "File Icons",
-                 "url":  "",
-                 "total":  930,
-                 "author":  {
-                                "name":  "John Gardner",
-                                "url":  "https://github.com/file-icons/icons"
-                            },
-                 "license":  {
-                                 "title":  "ISC",
-                                 "spdx":  "ISC",
-                                 "url":  "https://github.com/file-icons/icons/blob/master/LICENSE.md"
-                             }
-             },
-    "lastModified":  1770449297
+{
+  "prefix": "file-icons",
+  "info": {
+    "name": "File Icons",
+    "url": "",
+    "total": 930,
+    "author": {
+      "name": "John Gardner",
+      "url": "https://github.com/file-icons/icons"
+    },
+    "license": {
+      "title": "ISC",
+      "spdx": "ISC",
+      "url": "https://github.com/file-icons/icons/blob/master/LICENSE.md"
+    }
+  },
+  "lastModified": 1770449297
 }

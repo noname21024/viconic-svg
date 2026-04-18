@@ -1,18 +1,18 @@
-﻿{
-    "prefix":  "topcoat",
-    "info":  {
-                 "name":  "TopCoat Icons",
-                 "url":  "",
-                 "total":  89,
-                 "author":  {
-                                "name":  "TopCoat",
-                                "url":  "https://github.com/topcoat/icons"
-                            },
-                 "license":  {
-                                 "title":  "Apache 2.0",
-                                 "spdx":  "Apache-2.0",
-                                 "url":  "https://github.com/topcoat/icons/blob/master/LICENSE"
-                             }
-             },
-    "lastModified":  1770449988
+{
+  "prefix": "topcoat",
+  "info": {
+    "name": "TopCoat Icons",
+    "url": "",
+    "total": 89,
+    "author": {
+      "name": "TopCoat",
+      "url": "https://github.com/topcoat/icons"
+    },
+    "license": {
+      "title": "Apache 2.0",
+      "spdx": "Apache-2.0",
+      "url": "https://github.com/topcoat/icons/blob/master/LICENSE"
+    }
+  },
+  "lastModified": 1770449988
 }

@@ -1,18 +1,18 @@
-﻿{
-    "prefix":  "bi",
-    "info":  {
-                 "name":  "Bootstrap Icons",
-                 "url":  "",
-                 "total":  2078,
-                 "author":  {
-                                "name":  "The Bootstrap Authors",
-                                "url":  "https://github.com/twbs/icons"
-                            },
-                 "license":  {
-                                 "title":  "MIT",
-                                 "spdx":  "MIT",
-                                 "url":  "https://github.com/twbs/icons/blob/main/LICENSE.md"
-                             }
-             },
-    "lastModified":  1770449192
+{
+  "prefix": "bi",
+  "info": {
+    "name": "Bootstrap Icons",
+    "url": "",
+    "total": 2078,
+    "author": {
+      "name": "The Bootstrap Authors",
+      "url": "https://github.com/twbs/icons"
+    },
+    "license": {
+      "title": "MIT",
+      "spdx": "MIT",
+      "url": "https://github.com/twbs/icons/blob/main/LICENSE.md"
+    }
+  },
+  "lastModified": 1770449192
 }

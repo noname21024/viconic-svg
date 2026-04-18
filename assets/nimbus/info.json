@@ -1,18 +1,18 @@
-﻿{
-    "prefix":  "nimbus",
-    "info":  {
-                 "name":  "Nimbus",
-                 "url":  "",
-                 "total":  140,
-                 "author":  {
-                                "name":  "Linkedstore S.A.",
-                                "url":  "https://github.com/cyberalien/nimbus-icons"
-                            },
-                 "license":  {
-                                 "title":  "MIT",
-                                 "spdx":  "MIT",
-                                 "url":  "https://github.com/cyberalien/nimbus-icons/blob/main/LICENSE"
-                             }
-             },
-    "lastModified":  1770449749
+{
+  "prefix": "nimbus",
+  "info": {
+    "name": "Nimbus",
+    "url": "",
+    "total": 140,
+    "author": {
+      "name": "Linkedstore S.A.",
+      "url": "https://github.com/cyberalien/nimbus-icons"
+    },
+    "license": {
+      "title": "MIT",
+      "spdx": "MIT",
+      "url": "https://github.com/cyberalien/nimbus-icons/blob/main/LICENSE"
+    }
+  },
+  "lastModified": 1770449749
 }

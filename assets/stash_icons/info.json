@@ -1,18 +1,18 @@
-﻿{
-    "prefix":  "stash",
-    "info":  {
-                 "name":  "Stash Icons",
-                 "url":  "",
-                 "total":  982,
-                 "author":  {
-                                "name":  "Pingback LLC",
-                                "url":  "https://github.com/stash-ui/icons"
-                            },
-                 "license":  {
-                                 "title":  "MIT",
-                                 "spdx":  "MIT",
-                                 "url":  "https://github.com/stash-ui/icons/blob/master/LICENSE"
-                             }
-             },
-    "lastModified":  1773220700
+{
+  "prefix": "stash",
+  "info": {
+    "name": "Stash Icons",
+    "url": "",
+    "total": 982,
+    "author": {
+      "name": "Pingback LLC",
+      "url": "https://github.com/stash-ui/icons"
+    },
+    "license": {
+      "title": "MIT",
+      "spdx": "MIT",
+      "url": "https://github.com/stash-ui/icons/blob/master/LICENSE"
+    }
+  },
+  "lastModified": 1773220700
 }

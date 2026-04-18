@@ -1,18 +1,18 @@
-﻿{
-    "prefix":  "tdesign",
-    "info":  {
-                 "name":  "TDesign Icons",
-                 "url":  "",
-                 "total":  2347,
-                 "author":  {
-                                "name":  "TDesign",
-                                "url":  "https://github.com/Tencent/tdesign-icons"
-                            },
-                 "license":  {
-                                 "title":  "MIT",
-                                 "spdx":  "MIT",
-                                 "url":  "https://github.com/Tencent/tdesign-icons/blob/main/LICENSE"
-                             }
-             },
-    "lastModified":  1773221481
+{
+  "prefix": "tdesign",
+  "info": {
+    "name": "TDesign Icons",
+    "url": "",
+    "total": 2347,
+    "author": {
+      "name": "TDesign",
+      "url": "https://github.com/Tencent/tdesign-icons"
+    },
+    "license": {
+      "title": "MIT",
+      "spdx": "MIT",
+      "url": "https://github.com/Tencent/tdesign-icons/blob/main/LICENSE"
+    }
+  },
+  "lastModified": 1773221481
 }

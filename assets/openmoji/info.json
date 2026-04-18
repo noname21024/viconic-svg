@@ -1,18 +1,18 @@
-﻿{
-    "prefix":  "openmoji",
-    "info":  {
-                 "name":  "OpenMoji",
-                 "url":  "",
-                 "total":  4449,
-                 "author":  {
-                                "name":  "OpenMoji",
-                                "url":  "https://github.com/hfg-gmuend/openmoji"
-                            },
-                 "license":  {
-                                 "title":  "CC BY-SA 4.0",
-                                 "spdx":  "CC-BY-SA-4.0",
-                                 "url":  "https://creativecommons.org/licenses/by-sa/4.0/"
-                             }
-             },
-    "lastModified":  1770449778
+{
+  "prefix": "openmoji",
+  "info": {
+    "name": "OpenMoji",
+    "url": "",
+    "total": 4449,
+    "author": {
+      "name": "OpenMoji",
+      "url": "https://github.com/hfg-gmuend/openmoji"
+    },
+    "license": {
+      "title": "CC BY-SA 4.0",
+      "spdx": "CC-BY-SA-4.0",
+      "url": "https://creativecommons.org/licenses/by-sa/4.0/"
+    }
+  },
+  "lastModified": 1770449778
 }

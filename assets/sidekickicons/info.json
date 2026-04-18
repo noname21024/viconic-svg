@@ -1,18 +1,18 @@
-﻿{
-    "prefix":  "sidekickicons",
-    "info":  {
-                 "name":  "SidekickIcons",
-                 "url":  "",
-                 "total":  224,
-                 "author":  {
-                                "name":  "Andri Soone",
-                                "url":  "https://github.com/ndri/sidekickicons"
-                            },
-                 "license":  {
-                                 "title":  "MIT",
-                                 "spdx":  "MIT",
-                                 "url":  "https://github.com/ndri/sidekickicons/blob/master/LICENSE"
-                             }
-             },
-    "lastModified":  1770449843
+{
+  "prefix": "sidekickicons",
+  "info": {
+    "name": "SidekickIcons",
+    "url": "",
+    "total": 224,
+    "author": {
+      "name": "Andri Soone",
+      "url": "https://github.com/ndri/sidekickicons"
+    },
+    "license": {
+      "title": "MIT",
+      "spdx": "MIT",
+      "url": "https://github.com/ndri/sidekickicons/blob/master/LICENSE"
+    }
+  },
+  "lastModified": 1770449843
 }

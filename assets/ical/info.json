@@ -1,16 +1,16 @@
-﻿{
-    "prefix":  "il",
-    "info":  {
-                 "name":  "Icalicons",
-                 "url":  "",
-                 "total":  84,
-                 "author":  {
-                                "name":  "Icalia Labs"
-                            },
-                 "license":  {
-                                 "title":  "MIT",
-                                 "spdx":  "MIT"
-                             }
-             },
-    "lastModified":  1770449536
+{
+  "prefix": "il",
+  "info": {
+    "name": "Icalicons",
+    "url": "",
+    "total": 84,
+    "author": {
+      "name": "Icalia Labs"
+    },
+    "license": {
+      "title": "MIT",
+      "spdx": "MIT"
+    }
+  },
+  "lastModified": 1770449536
 }

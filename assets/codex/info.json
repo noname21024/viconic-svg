@@ -1,18 +1,18 @@
-﻿{
-    "prefix":  "codex",
-    "info":  {
-                 "name":  "CodeX Icons",
-                 "url":  "",
-                 "total":  78,
-                 "author":  {
-                                "name":  "CodeX",
-                                "url":  "https://github.com/codex-team/icons"
-                            },
-                 "license":  {
-                                 "title":  "MIT",
-                                 "spdx":  "MIT",
-                                 "url":  "https://github.com/codex-team/icons/blob/master/LICENSE"
-                             }
-             },
-    "lastModified":  1770449227
+{
+  "prefix": "codex",
+  "info": {
+    "name": "CodeX Icons",
+    "url": "",
+    "total": 78,
+    "author": {
+      "name": "CodeX",
+      "url": "https://github.com/codex-team/icons"
+    },
+    "license": {
+      "title": "MIT",
+      "spdx": "MIT",
+      "url": "https://github.com/codex-team/icons/blob/master/LICENSE"
+    }
+  },
+  "lastModified": 1770449227
 }

@@ -1,18 +1,18 @@
-﻿{
-    "prefix":  "majesticons",
-    "info":  {
-                 "name":  "Majesticons",
-                 "url":  "",
-                 "total":  760,
-                 "author":  {
-                                "name":  "Gerrit Halfmann",
-                                "url":  "https://github.com/halfmage/majesticons"
-                            },
-                 "license":  {
-                                 "title":  "MIT",
-                                 "spdx":  "MIT",
-                                 "url":  "https://github.com/halfmage/majesticons/blob/main/LICENSE"
-                             }
-             },
-    "lastModified":  1773150588
+{
+  "prefix": "majesticons",
+  "info": {
+    "name": "Majesticons",
+    "url": "",
+    "total": 760,
+    "author": {
+      "name": "Gerrit Halfmann",
+      "url": "https://github.com/halfmage/majesticons"
+    },
+    "license": {
+      "title": "MIT",
+      "spdx": "MIT",
+      "url": "https://github.com/halfmage/majesticons/blob/main/LICENSE"
+    }
+  },
+  "lastModified": 1773150588
 }

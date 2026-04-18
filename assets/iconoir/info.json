@@ -1,18 +1,18 @@
-﻿{
-    "prefix":  "iconoir",
-    "info":  {
-                 "name":  "Iconoir",
-                 "url":  "",
-                 "total":  1671,
-                 "author":  {
-                                "name":  "Luca Burgio",
-                                "url":  "https://github.com/iconoir-icons/iconoir"
-                            },
-                 "license":  {
-                                 "title":  "MIT",
-                                 "spdx":  "MIT",
-                                 "url":  "https://github.com/iconoir-icons/iconoir/blob/main/LICENSE"
-                             }
-             },
-    "lastModified":  1770449535
+{
+  "prefix": "iconoir",
+  "info": {
+    "name": "Iconoir",
+    "url": "",
+    "total": 1671,
+    "author": {
+      "name": "Luca Burgio",
+      "url": "https://github.com/iconoir-icons/iconoir"
+    },
+    "license": {
+      "title": "MIT",
+      "spdx": "MIT",
+      "url": "https://github.com/iconoir-icons/iconoir/blob/main/LICENSE"
+    }
+  },
+  "lastModified": 1770449535
 }

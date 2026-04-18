@@ -1,18 +1,18 @@
-﻿{
-    "prefix":  "uil",
-    "info":  {
-                 "name":  "Unicons",
-                 "url":  "",
-                 "total":  1215,
-                 "author":  {
-                                "name":  "Iconscout",
-                                "url":  "https://github.com/Iconscout/unicons"
-                            },
-                 "license":  {
-                                 "title":  "Apache 2.0",
-                                 "spdx":  "Apache-2.0",
-                                 "url":  "https://github.com/Iconscout/unicons/blob/master/LICENSE"
-                             }
-             },
-    "lastModified":  1770450000
+{
+  "prefix": "uil",
+  "info": {
+    "name": "Unicons",
+    "url": "",
+    "total": 1215,
+    "author": {
+      "name": "Iconscout",
+      "url": "https://github.com/Iconscout/unicons"
+    },
+    "license": {
+      "title": "Apache 2.0",
+      "spdx": "Apache-2.0",
+      "url": "https://github.com/Iconscout/unicons/blob/master/LICENSE"
+    }
+  },
+  "lastModified": 1770450000
 }

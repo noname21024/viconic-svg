@@ -1,18 +1,18 @@
-﻿{
-    "prefix":  "charm",
-    "info":  {
-                 "name":  "Charm Icons",
-                 "url":  "",
-                 "total":  261,
-                 "author":  {
-                                "name":  "Jay Newey",
-                                "url":  "https://github.com/jaynewey/charm-icons"
-                            },
-                 "license":  {
-                                 "title":  "MIT",
-                                 "spdx":  "MIT",
-                                 "url":  "https://github.com/jaynewey/charm-icons/blob/main/LICENSE"
-                             }
-             },
-    "lastModified":  1770449215
+{
+  "prefix": "charm",
+  "info": {
+    "name": "Charm Icons",
+    "url": "",
+    "total": 261,
+    "author": {
+      "name": "Jay Newey",
+      "url": "https://github.com/jaynewey/charm-icons"
+    },
+    "license": {
+      "title": "MIT",
+      "spdx": "MIT",
+      "url": "https://github.com/jaynewey/charm-icons/blob/main/LICENSE"
+    }
+  },
+  "lastModified": 1770449215
 }

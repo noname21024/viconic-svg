@@ -1,18 +1,18 @@
-﻿{
-    "prefix":  "line-md",
-    "info":  {
-                 "name":  "Material Line Icons",
-                 "url":  "",
-                 "total":  1218,
-                 "author":  {
-                                "name":  "Vjacheslav Trushkin",
-                                "url":  "https://github.com/cyberalien/line-md"
-                            },
-                 "license":  {
-                                 "title":  "MIT",
-                                 "spdx":  "MIT",
-                                 "url":  "https://github.com/cyberalien/line-md/blob/main/license.txt"
-                             }
-             },
-    "lastModified":  1773151102
+{
+  "prefix": "line-md",
+  "info": {
+    "name": "Material Line Icons",
+    "url": "",
+    "total": 1218,
+    "author": {
+      "name": "Vjacheslav Trushkin",
+      "url": "https://github.com/cyberalien/line-md"
+    },
+    "license": {
+      "title": "MIT",
+      "spdx": "MIT",
+      "url": "https://github.com/cyberalien/line-md/blob/main/license.txt"
+    }
+  },
+  "lastModified": 1773151102
 }

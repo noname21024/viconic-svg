@@ -1,17 +1,17 @@
-﻿{
-    "prefix":  "foundation",
-    "info":  {
-                 "name":  "Foundation",
-                 "url":  "",
-                 "total":  283,
-                 "author":  {
-                                "name":  "Zurb",
-                                "url":  "https://github.com/zurb/foundation-icon-fonts"
-                            },
-                 "license":  {
-                                 "title":  "MIT",
-                                 "spdx":  "MIT"
-                             }
-             },
-    "lastModified":  1770449415
+{
+  "prefix": "foundation",
+  "info": {
+    "name": "Foundation",
+    "url": "",
+    "total": 283,
+    "author": {
+      "name": "Zurb",
+      "url": "https://github.com/zurb/foundation-icon-fonts"
+    },
+    "license": {
+      "title": "MIT",
+      "spdx": "MIT"
+    }
+  },
+  "lastModified": 1770449415
 }

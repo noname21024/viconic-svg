@@ -1,18 +1,18 @@
-﻿{
-    "prefix":  "typcn",
-    "info":  {
-                 "name":  "Typicons",
-                 "url":  "",
-                 "total":  336,
-                 "author":  {
-                                "name":  "Stephen Hutchings",
-                                "url":  "https://github.com/stephenhutchings/typicons.font"
-                            },
-                 "license":  {
-                                 "title":  "CC BY-SA 4.0",
-                                 "spdx":  "CC-BY-SA-4.0",
-                                 "url":  "https://creativecommons.org/licenses/by-sa/4.0/"
-                             }
-             },
-    "lastModified":  1770449995
+{
+  "prefix": "typcn",
+  "info": {
+    "name": "Typicons",
+    "url": "",
+    "total": 336,
+    "author": {
+      "name": "Stephen Hutchings",
+      "url": "https://github.com/stephenhutchings/typicons.font"
+    },
+    "license": {
+      "title": "CC BY-SA 4.0",
+      "spdx": "CC-BY-SA-4.0",
+      "url": "https://creativecommons.org/licenses/by-sa/4.0/"
+    }
+  },
+  "lastModified": 1770449995
 }

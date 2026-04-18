@@ -1,18 +1,18 @@
-﻿{
-    "prefix":  "mingcute",
-    "info":  {
-                 "name":  "MingCute Icon",
-                 "url":  "",
-                 "total":  3324,
-                 "author":  {
-                                "name":  "MingCute Design",
-                                "url":  "https://github.com/Richard9394/MingCute"
-                            },
-                 "license":  {
-                                 "title":  "Apache 2.0",
-                                 "spdx":  "Apache-2.0",
-                                 "url":  "https://github.com/Richard9394/MingCute/blob/main/LICENSE"
-                             }
-             },
-    "lastModified":  1774533838
+{
+  "prefix": "mingcute",
+  "info": {
+    "name": "MingCute Icon",
+    "url": "",
+    "total": 3324,
+    "author": {
+      "name": "MingCute Design",
+      "url": "https://github.com/Richard9394/MingCute"
+    },
+    "license": {
+      "title": "Apache 2.0",
+      "spdx": "Apache-2.0",
+      "url": "https://github.com/Richard9394/MingCute/blob/main/LICENSE"
+    }
+  },
+  "lastModified": 1774533838
 }

@@ -1,18 +1,18 @@
-﻿{
-    "prefix":  "et",
-    "info":  {
-                 "name":  "Elegant",
-                 "url":  "",
-                 "total":  100,
-                 "author":  {
-                                "name":  "Kenny Sing",
-                                "url":  "https://github.com/pprince/etlinefont-bower"
-                            },
-                 "license":  {
-                                 "title":  "GPL 3.0",
-                                 "spdx":  "GPL-3.0-or-later",
-                                 "url":  "https://www.gnu.org/licenses/gpl.html"
-                             }
-             },
-    "lastModified":  1770449261
+{
+  "prefix": "et",
+  "info": {
+    "name": "Elegant",
+    "url": "",
+    "total": 100,
+    "author": {
+      "name": "Kenny Sing",
+      "url": "https://github.com/pprince/etlinefont-bower"
+    },
+    "license": {
+      "title": "GPL 3.0",
+      "spdx": "GPL-3.0-or-later",
+      "url": "https://www.gnu.org/licenses/gpl.html"
+    }
+  },
+  "lastModified": 1770449261
 }

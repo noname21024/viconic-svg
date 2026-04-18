@@ -1,18 +1,18 @@
-﻿{
-    "prefix":  "wi",
-    "info":  {
-                 "name":  "Weather Icons",
-                 "url":  "",
-                 "total":  219,
-                 "author":  {
-                                "name":  "Erik Flowers",
-                                "url":  "https://github.com/erikflowers/weather-icons"
-                            },
-                 "license":  {
-                                 "title":  "Open Font License",
-                                 "spdx":  "OFL-1.1",
-                                 "url":  "https://scripts.sil.org/cms/scripts/page.php?site_id=nrsi\u0026id=OFL"
-                             }
-             },
-    "lastModified":  1770450018
+{
+  "prefix": "wi",
+  "info": {
+    "name": "Weather Icons",
+    "url": "",
+    "total": 219,
+    "author": {
+      "name": "Erik Flowers",
+      "url": "https://github.com/erikflowers/weather-icons"
+    },
+    "license": {
+      "title": "Open Font License",
+      "spdx": "OFL-1.1",
+      "url": "https://scripts.sil.org/cms/scripts/page.php?site_id=nrsi&id=OFL"
+    }
+  },
+  "lastModified": 1770450018
 }

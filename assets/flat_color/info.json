@@ -1,17 +1,17 @@
-﻿{
-    "prefix":  "flat-color-icons",
-    "info":  {
-                 "name":  "Flat Color Icons",
-                 "url":  "",
-                 "total":  329,
-                 "author":  {
-                                "name":  "Icons8",
-                                "url":  "https://github.com/icons8/flat-Color-icons"
-                            },
-                 "license":  {
-                                 "title":  "MIT",
-                                 "spdx":  "MIT"
-                             }
-             },
-    "lastModified":  1770449300
+{
+  "prefix": "flat-color-icons",
+  "info": {
+    "name": "Flat Color Icons",
+    "url": "",
+    "total": 329,
+    "author": {
+      "name": "Icons8",
+      "url": "https://github.com/icons8/flat-Color-icons"
+    },
+    "license": {
+      "title": "MIT",
+      "spdx": "MIT"
+    }
+  },
+  "lastModified": 1770449300
 }

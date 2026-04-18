@@ -1,18 +1,18 @@
-﻿{
-    "prefix":  "duo-icons",
-    "info":  {
-                 "name":  "Duoicons",
-                 "url":  "",
-                 "total":  91,
-                 "author":  {
-                                "name":  "fernandcf",
-                                "url":  "https://github.com/fazdiu/duo-icons"
-                            },
-                 "license":  {
-                                 "title":  "MIT",
-                                 "spdx":  "MIT",
-                                 "url":  "https://github.com/fazdiu/duo-icons/blob/master/LICENSE"
-                             }
-             },
-    "lastModified":  1773132398
+{
+  "prefix": "duo-icons",
+  "info": {
+    "name": "Duoicons",
+    "url": "",
+    "total": 91,
+    "author": {
+      "name": "fernandcf",
+      "url": "https://github.com/fazdiu/duo-icons"
+    },
+    "license": {
+      "title": "MIT",
+      "spdx": "MIT",
+      "url": "https://github.com/fazdiu/duo-icons/blob/master/LICENSE"
+    }
+  },
+  "lastModified": 1773132398
 }

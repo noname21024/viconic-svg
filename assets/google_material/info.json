@@ -1,18 +1,18 @@
-﻿{
-    "prefix":  "ic",
-    "info":  {
-                 "name":  "Google Material Icons",
-                 "url":  "",
-                 "total":  10955,
-                 "author":  {
-                                "name":  "Material Design Authors",
-                                "url":  "https://github.com/material-icons/material-icons"
-                            },
-                 "license":  {
-                                 "title":  "Apache 2.0",
-                                 "spdx":  "Apache-2.0",
-                                 "url":  "https://github.com/material-icons/material-icons/blob/master/LICENSE"
-                             }
-             },
-    "lastModified":  1770449500
+{
+  "prefix": "ic",
+  "info": {
+    "name": "Google Material Icons",
+    "url": "",
+    "total": 10955,
+    "author": {
+      "name": "Material Design Authors",
+      "url": "https://github.com/material-icons/material-icons"
+    },
+    "license": {
+      "title": "Apache 2.0",
+      "spdx": "Apache-2.0",
+      "url": "https://github.com/material-icons/material-icons/blob/master/LICENSE"
+    }
+  },
+  "lastModified": 1770449500
 }

@@ -1,18 +1,18 @@
-﻿{
-    "prefix":  "qlementine-icons",
-    "info":  {
-                 "name":  "Qlementine Icons",
-                 "url":  "",
-                 "total":  852,
-                 "author":  {
-                                "name":  "Olivier Cléro",
-                                "url":  "https://github.com/oclero/qlementine-icons"
-                            },
-                 "license":  {
-                                 "title":  "MIT",
-                                 "spdx":  "MIT",
-                                 "url":  "https://github.com/oclero/qlementine-icons/blob/master/LICENSE"
-                             }
-             },
-    "lastModified":  1773218988
+{
+  "prefix": "qlementine-icons",
+  "info": {
+    "name": "Qlementine Icons",
+    "url": "",
+    "total": 852,
+    "author": {
+      "name": "Olivier Cléro",
+      "url": "https://github.com/oclero/qlementine-icons"
+    },
+    "license": {
+      "title": "MIT",
+      "spdx": "MIT",
+      "url": "https://github.com/oclero/qlementine-icons/blob/master/LICENSE"
+    }
+  },
+  "lastModified": 1773218988
 }

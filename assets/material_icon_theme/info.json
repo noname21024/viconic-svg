@@ -1,18 +1,18 @@
-﻿{
-    "prefix":  "material-icon-theme",
-    "info":  {
-                 "name":  "Material Icon Theme",
-                 "url":  "",
-                 "total":  1136,
-                 "author":  {
-                                "name":  "Material Extensions",
-                                "url":  "https://github.com/material-extensions/vscode-material-icon-theme"
-                            },
-                 "license":  {
-                                 "title":  "MIT",
-                                 "spdx":  "MIT",
-                                 "url":  "https://github.com/material-extensions/vscode-material-icon-theme/blob/main/LICENSE"
-                             }
-             },
-    "lastModified":  1771593533
+{
+  "prefix": "material-icon-theme",
+  "info": {
+    "name": "Material Icon Theme",
+    "url": "",
+    "total": 1136,
+    "author": {
+      "name": "Material Extensions",
+      "url": "https://github.com/material-extensions/vscode-material-icon-theme"
+    },
+    "license": {
+      "title": "MIT",
+      "spdx": "MIT",
+      "url": "https://github.com/material-extensions/vscode-material-icon-theme/blob/main/LICENSE"
+    }
+  },
+  "lastModified": 1771593533
 }

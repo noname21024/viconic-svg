@@ -1,17 +1,17 @@
-﻿{
-    "prefix":  "svgrepo",
-    "info":  {
-                 "name":  "smoothie-line-icons",
-                 "url":  "https://www.svgrepo.com/collection/smoothie-line-icons",
-                 "total":  108,
-                 "author":  {
-                                "name":  "Luka Marr",
-                                "url":  "https://www.svgrepo.com/author/Luka%20Marr/"
-                            },
-                 "license":  {
-                                 "title":  "CC Attribution License",
-                                 "url":  "https://www.svgrepo.com/page/licensing/#CC%20Attribution"
-                             }
-             },
-    "lastModified":  1774518440
+{
+  "prefix": "svgrepo",
+  "info": {
+    "name": "smoothie-line-icons",
+    "url": "https://www.svgrepo.com/collection/smoothie-line-icons",
+    "total": 108,
+    "author": {
+      "name": "Luka Marr",
+      "url": "https://www.svgrepo.com/author/Luka%20Marr/"
+    },
+    "license": {
+      "title": "CC Attribution License",
+      "url": "https://www.svgrepo.com/page/licensing/#CC%20Attribution"
+    }
+  },
+  "lastModified": 1774518440
 }

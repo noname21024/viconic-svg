@@ -1,18 +1,18 @@
-﻿{
-    "prefix":  "bpmn",
-    "info":  {
-                 "name":  "BPMN",
-                 "url":  "",
-                 "total":  112,
-                 "author":  {
-                                "name":  "Camunda Services GmbH",
-                                "url":  "https://github.com/bpmn-io/bpmn-font"
-                            },
-                 "license":  {
-                                 "title":  "Open Font License",
-                                 "spdx":  "OFL-1.1",
-                                 "url":  "https://github.com/bpmn-io/bpmn-font/blob/master/LICENSE"
-                             }
-             },
-    "lastModified":  1770449194
+{
+  "prefix": "bpmn",
+  "info": {
+    "name": "BPMN",
+    "url": "",
+    "total": 112,
+    "author": {
+      "name": "Camunda Services GmbH",
+      "url": "https://github.com/bpmn-io/bpmn-font"
+    },
+    "license": {
+      "title": "Open Font License",
+      "spdx": "OFL-1.1",
+      "url": "https://github.com/bpmn-io/bpmn-font/blob/master/LICENSE"
+    }
+  },
+  "lastModified": 1770449194
 }

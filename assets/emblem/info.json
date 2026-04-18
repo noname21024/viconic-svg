@@ -1,18 +1,18 @@
-﻿{
-    "prefix":  "emblemicons",
-    "info":  {
-                 "name":  "Emblemicons",
-                 "url":  "",
-                 "total":  0,
-                 "author":  {
-                                "name":  "Manish Bharvey",
-                                "url":  "https://github.com/emblemicons/emblemicons.github.io"
-                            },
-                 "license":  {
-                                 "title":  "MIT",
-                                 "spdx":  "MIT",
-                                 "url":  "https://github.com/emblemicons/emblemicons.github.io/blob/master/LICENSE.md"
-                             }
-             },
-    "lastModified":  1770449246
+{
+  "prefix": "emblemicons",
+  "info": {
+    "name": "Emblemicons",
+    "url": "",
+    "total": 0,
+    "author": {
+      "name": "Manish Bharvey",
+      "url": "https://github.com/emblemicons/emblemicons.github.io"
+    },
+    "license": {
+      "title": "MIT",
+      "spdx": "MIT",
+      "url": "https://github.com/emblemicons/emblemicons.github.io/blob/master/LICENSE.md"
+    }
+  },
+  "lastModified": 1770449246
 }

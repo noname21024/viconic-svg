@@ -1,18 +1,18 @@
-﻿{
-    "prefix":  "system-uicons",
-    "info":  {
-                 "name":  "System UIcons",
-                 "url":  "",
-                 "total":  430,
-                 "author":  {
-                                "name":  "Corey Ginnivan",
-                                "url":  "https://github.com/CoreyGinnivan/system-uicons"
-                            },
-                 "license":  {
-                                 "title":  "Unlicense",
-                                 "spdx":  "Unlicense",
-                                 "url":  "https://github.com/CoreyGinnivan/system-uicons/blob/master/LICENSE"
-                             }
-             },
-    "lastModified":  1770449949
+{
+  "prefix": "system-uicons",
+  "info": {
+    "name": "System UIcons",
+    "url": "",
+    "total": 430,
+    "author": {
+      "name": "Corey Ginnivan",
+      "url": "https://github.com/CoreyGinnivan/system-uicons"
+    },
+    "license": {
+      "title": "Unlicense",
+      "spdx": "Unlicense",
+      "url": "https://github.com/CoreyGinnivan/system-uicons/blob/master/LICENSE"
+    }
+  },
+  "lastModified": 1770449949
 }

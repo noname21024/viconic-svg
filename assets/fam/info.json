@@ -1,18 +1,18 @@
-﻿{
-    "prefix":  "famicons",
-    "info":  {
-                 "name":  "Famicons",
-                 "url":  "",
-                 "total":  1342,
-                 "author":  {
-                                "name":  "Family",
-                                "url":  "https://github.com/familyjs/famicons"
-                            },
-                 "license":  {
-                                 "title":  "MIT",
-                                 "spdx":  "MIT",
-                                 "url":  "https://github.com/familyjs/famicons/blob/main/LICENSE"
-                             }
-             },
-    "lastModified":  1770449292
+{
+  "prefix": "famicons",
+  "info": {
+    "name": "Famicons",
+    "url": "",
+    "total": 1342,
+    "author": {
+      "name": "Family",
+      "url": "https://github.com/familyjs/famicons"
+    },
+    "license": {
+      "title": "MIT",
+      "spdx": "MIT",
+      "url": "https://github.com/familyjs/famicons/blob/main/LICENSE"
+    }
+  },
+  "lastModified": 1770449292
 }

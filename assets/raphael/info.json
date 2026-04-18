@@ -1,17 +1,17 @@
-﻿{
-    "prefix":  "raphael",
-    "info":  {
-                 "name":  "Raphael",
-                 "url":  "",
-                 "total":  266,
-                 "author":  {
-                                "name":  "Dmitry Baranovskiy",
-                                "url":  "https://github.com/dmitrybaranovskiy/raphael"
-                            },
-                 "license":  {
-                                 "title":  "MIT",
-                                 "spdx":  "MIT"
-                             }
-             },
-    "lastModified":  1770449827
+{
+  "prefix": "raphael",
+  "info": {
+    "name": "Raphael",
+    "url": "",
+    "total": 266,
+    "author": {
+      "name": "Dmitry Baranovskiy",
+      "url": "https://github.com/dmitrybaranovskiy/raphael"
+    },
+    "license": {
+      "title": "MIT",
+      "spdx": "MIT"
+    }
+  },
+  "lastModified": 1770449827
 }

@@ -1,18 +1,18 @@
-﻿{
-    "prefix":  "eos-icons",
-    "info":  {
-                 "name":  "EOS Icons",
-                 "url":  "",
-                 "total":  253,
-                 "author":  {
-                                "name":  "SUSE UX/UI team",
-                                "url":  "https://gitlab.com/SUSE-UIUX/eos-icons"
-                            },
-                 "license":  {
-                                 "title":  "MIT",
-                                 "spdx":  "MIT",
-                                 "url":  "https://gitlab.com/SUSE-UIUX/eos-icons/-/blob/master/LICENSE"
-                             }
-             },
-    "lastModified":  1773132481
+{
+  "prefix": "eos-icons",
+  "info": {
+    "name": "EOS Icons",
+    "url": "",
+    "total": 253,
+    "author": {
+      "name": "SUSE UX/UI team",
+      "url": "https://gitlab.com/SUSE-UIUX/eos-icons"
+    },
+    "license": {
+      "title": "MIT",
+      "spdx": "MIT",
+      "url": "https://gitlab.com/SUSE-UIUX/eos-icons/-/blob/master/LICENSE"
+    }
+  },
+  "lastModified": 1773132481
 }

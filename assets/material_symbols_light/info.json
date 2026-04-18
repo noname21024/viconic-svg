@@ -1,18 +1,18 @@
-﻿{
-    "prefix":  "material-symbols-light",
-    "info":  {
-                 "name":  "Material Symbols Light",
-                 "url":  "",
-                 "total":  15169,
-                 "author":  {
-                                "name":  "Google",
-                                "url":  "https://github.com/google/material-design-icons"
-                            },
-                 "license":  {
-                                 "title":  "Apache 2.0",
-                                 "spdx":  "Apache-2.0",
-                                 "url":  "https://github.com/google/material-design-icons/blob/master/LICENSE"
-                             }
-             },
-    "lastModified":  1773151078
+{
+  "prefix": "material-symbols-light",
+  "info": {
+    "name": "Material Symbols Light",
+    "url": "",
+    "total": 15169,
+    "author": {
+      "name": "Google",
+      "url": "https://github.com/google/material-design-icons"
+    },
+    "license": {
+      "title": "Apache 2.0",
+      "spdx": "Apache-2.0",
+      "url": "https://github.com/google/material-design-icons/blob/master/LICENSE"
+    }
+  },
+  "lastModified": 1773151078
 }

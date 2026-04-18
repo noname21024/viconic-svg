@@ -1,18 +1,18 @@
-﻿{
-    "prefix":  "streamline-ultimate-color",
-    "info":  {
-                 "name":  "Ultimate color icons",
-                 "url":  "",
-                 "total":  998,
-                 "author":  {
-                                "name":  "Streamline",
-                                "url":  "https://github.com/webalys-hq/streamline-vectors"
-                            },
-                 "license":  {
-                                 "title":  "CC BY 4.0",
-                                 "spdx":  "CC-BY-4.0",
-                                 "url":  "https://creativecommons.org/licenses/by/4.0/"
-                             }
-             },
-    "lastModified":  1770449934
+{
+  "prefix": "streamline-ultimate-color",
+  "info": {
+    "name": "Ultimate color icons",
+    "url": "",
+    "total": 998,
+    "author": {
+      "name": "Streamline",
+      "url": "https://github.com/webalys-hq/streamline-vectors"
+    },
+    "license": {
+      "title": "CC BY 4.0",
+      "spdx": "CC-BY-4.0",
+      "url": "https://creativecommons.org/licenses/by/4.0/"
+    }
+  },
+  "lastModified": 1770449934
 }

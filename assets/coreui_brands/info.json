@@ -1,18 +1,18 @@
-﻿{
-    "prefix":  "cib",
-    "info":  {
-                 "name":  "CoreUI Brands",
-                 "url":  "",
-                 "total":  830,
-                 "author":  {
-                                "name":  "creativeLabs Łukasz Holeczek",
-                                "url":  "https://github.com/coreui/coreui-icons"
-                            },
-                 "license":  {
-                                 "title":  "CC0 1.0",
-                                 "spdx":  "CC0-1.0",
-                                 "url":  "https://creativecommons.org/publicdomain/zero/1.0/"
-                             }
-             },
-    "lastModified":  1770449220
+{
+  "prefix": "cib",
+  "info": {
+    "name": "CoreUI Brands",
+    "url": "",
+    "total": 830,
+    "author": {
+      "name": "creativeLabs Łukasz Holeczek",
+      "url": "https://github.com/coreui/coreui-icons"
+    },
+    "license": {
+      "title": "CC0 1.0",
+      "spdx": "CC0-1.0",
+      "url": "https://creativecommons.org/publicdomain/zero/1.0/"
+    }
+  },
+  "lastModified": 1770449220
 }

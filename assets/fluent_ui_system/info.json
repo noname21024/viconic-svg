@@ -1,18 +1,18 @@
-﻿{
-    "prefix":  "fluent",
-    "info":  {
-                 "name":  "Fluent UI System Icons",
-                 "url":  "",
-                 "total":  18868,
-                 "author":  {
-                                "name":  "Microsoft Corporation",
-                                "url":  "https://github.com/microsoft/fluentui-system-icons"
-                            },
-                 "license":  {
-                                 "title":  "MIT",
-                                 "spdx":  "MIT",
-                                 "url":  "https://github.com/microsoft/fluentui-system-icons/blob/main/LICENSE"
-                             }
-             },
-    "lastModified":  1770449411
+{
+  "prefix": "fluent",
+  "info": {
+    "name": "Fluent UI System Icons",
+    "url": "",
+    "total": 18868,
+    "author": {
+      "name": "Microsoft Corporation",
+      "url": "https://github.com/microsoft/fluentui-system-icons"
+    },
+    "license": {
+      "title": "MIT",
+      "spdx": "MIT",
+      "url": "https://github.com/microsoft/fluentui-system-icons/blob/main/LICENSE"
+    }
+  },
+  "lastModified": 1770449411
 }

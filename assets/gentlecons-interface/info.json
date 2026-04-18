@@ -1,17 +1,17 @@
-﻿{
-    "prefix":  "svgrepo",
-    "info":  {
-                 "name":  "gentlecons-interface-icons",
-                 "url":  "https://www.svgrepo.com/collection/gentlecons-interface-icons/",
-                 "total":  512,
-                 "author":  {
-                                "name":  "Konstantin Filatov",
-                                "url":  "https://www.svgrepo.com/author/Konstantin%20Filatov/"
-                            },
-                 "license":  {
-                                 "title":  "CC Attribution License",
-                                 "url":  "https://www.svgrepo.com/page/licensing/#CC%20Attribution"
-                             }
-             },
-    "lastModified":  1774029013
+{
+  "prefix": "svgrepo",
+  "info": {
+    "name": "gentlecons-interface-icons",
+    "url": "https://www.svgrepo.com/collection/gentlecons-interface-icons/",
+    "total": 512,
+    "author": {
+      "name": "Konstantin Filatov",
+      "url": "https://www.svgrepo.com/author/Konstantin%20Filatov/"
+    },
+    "license": {
+      "title": "CC Attribution License",
+      "url": "https://www.svgrepo.com/page/licensing/#CC%20Attribution"
+    }
+  },
+  "lastModified": 1774029013
 }

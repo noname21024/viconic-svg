@@ -1,18 +1,18 @@
-﻿{
-    "prefix":  "fluent-mdl2",
-    "info":  {
-                 "name":  "Fluent UI MDL2",
-                 "url":  "",
-                 "total":  1735,
-                 "author":  {
-                                "name":  "Microsoft Corporation",
-                                "url":  "https://github.com/microsoft/fluentui/tree/master/packages/react-icons-mdl2"
-                            },
-                 "license":  {
-                                 "title":  "MIT",
-                                 "spdx":  "MIT",
-                                 "url":  "https://github.com/microsoft/fluentui/blob/master/packages/react-icons-mdl2/LICENSE"
-                             }
-             },
-    "lastModified":  1770449361
+{
+  "prefix": "fluent-mdl2",
+  "info": {
+    "name": "Fluent UI MDL2",
+    "url": "",
+    "total": 1735,
+    "author": {
+      "name": "Microsoft Corporation",
+      "url": "https://github.com/microsoft/fluentui/tree/master/packages/react-icons-mdl2"
+    },
+    "license": {
+      "title": "MIT",
+      "spdx": "MIT",
+      "url": "https://github.com/microsoft/fluentui/blob/master/packages/react-icons-mdl2/LICENSE"
+    }
+  },
+  "lastModified": 1770449361
 }

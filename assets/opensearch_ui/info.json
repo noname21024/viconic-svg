@@ -1,18 +1,18 @@
-﻿{
-    "prefix":  "oui",
-    "info":  {
-                 "name":  "OpenSearch UI",
-                 "url":  "",
-                 "total":  437,
-                 "author":  {
-                                "name":  "OpenSearch Contributors",
-                                "url":  "https://github.com/opensearch-project/oui"
-                            },
-                 "license":  {
-                                 "title":  "Apache 2.0",
-                                 "spdx":  "Apache-2.0",
-                                 "url":  "https://github.com/opensearch-project/oui/blob/main/LICENSE.txt"
-                             }
-             },
-    "lastModified":  1771432552
+{
+  "prefix": "oui",
+  "info": {
+    "name": "OpenSearch UI",
+    "url": "",
+    "total": 437,
+    "author": {
+      "name": "OpenSearch Contributors",
+      "url": "https://github.com/opensearch-project/oui"
+    },
+    "license": {
+      "title": "Apache 2.0",
+      "spdx": "Apache-2.0",
+      "url": "https://github.com/opensearch-project/oui/blob/main/LICENSE.txt"
+    }
+  },
+  "lastModified": 1771432552
 }

@@ -1,18 +1,18 @@
-﻿{
-    "prefix":  "cuida",
-    "info":  {
-                 "name":  "Cuida Icons",
-                 "url":  "",
-                 "total":  182,
-                 "author":  {
-                                "name":  "Sysvale",
-                                "url":  "https://github.com/Sysvale/cuida-icons"
-                            },
-                 "license":  {
-                                 "title":  "Apache 2.0",
-                                 "spdx":  "Apache-2.0",
-                                 "url":  "https://github.com/Sysvale/cuida-icons/blob/main/LICENSE"
-                             }
-             },
-    "lastModified":  1770449233
+{
+  "prefix": "cuida",
+  "info": {
+    "name": "Cuida Icons",
+    "url": "",
+    "total": 182,
+    "author": {
+      "name": "Sysvale",
+      "url": "https://github.com/Sysvale/cuida-icons"
+    },
+    "license": {
+      "title": "Apache 2.0",
+      "spdx": "Apache-2.0",
+      "url": "https://github.com/Sysvale/cuida-icons/blob/main/LICENSE"
+    }
+  },
+  "lastModified": 1770449233
 }

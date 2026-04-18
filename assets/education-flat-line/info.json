@@ -1,17 +1,17 @@
-﻿{
-    "prefix":  "svgrepo",
-    "info":  {
-                 "name":  "education-flat-line-icons",
-                 "url":  "https://www.svgrepo.com/collection/education-flat-line-icons/",
-                 "total":  22,
-                 "author":  {
-                                "name":  "yudhapr",
-                                "url":  "https://www.svgrepo.com/author/yudhapr/"
-                            },
-                 "license":  {
-                                 "title":  "CC Attribution License",
-                                 "url":  "https://www.svgrepo.com/page/licensing/#CC%20Attribution"
-                             }
-             },
-    "lastModified":  1774027705
+{
+  "prefix": "svgrepo",
+  "info": {
+    "name": "education-flat-line-icons",
+    "url": "https://www.svgrepo.com/collection/education-flat-line-icons/",
+    "total": 22,
+    "author": {
+      "name": "yudhapr",
+      "url": "https://www.svgrepo.com/author/yudhapr/"
+    },
+    "license": {
+      "title": "CC Attribution License",
+      "url": "https://www.svgrepo.com/page/licensing/#CC%20Attribution"
+    }
+  },
+  "lastModified": 1774027705
 }

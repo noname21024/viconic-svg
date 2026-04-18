@@ -1,18 +1,18 @@
-﻿{
-    "prefix":  "gg",
-    "info":  {
-                 "name":  "css.gg",
-                 "url":  "",
-                 "total":  704,
-                 "author":  {
-                                "name":  "Astrit",
-                                "url":  "https://github.com/astrit/css.gg"
-                            },
-                 "license":  {
-                                 "title":  "MIT",
-                                 "spdx":  "MIT",
-                                 "url":  "https://github.com/astrit/css.gg/blob/master/LICENSE"
-                             }
-             },
-    "lastModified":  1770449437
+{
+  "prefix": "gg",
+  "info": {
+    "name": "css.gg",
+    "url": "",
+    "total": 704,
+    "author": {
+      "name": "Astrit",
+      "url": "https://github.com/astrit/css.gg"
+    },
+    "license": {
+      "title": "MIT",
+      "spdx": "MIT",
+      "url": "https://github.com/astrit/css.gg/blob/master/LICENSE"
+    }
+  },
+  "lastModified": 1770449437
 }

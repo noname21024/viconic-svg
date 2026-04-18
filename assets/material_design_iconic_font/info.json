@@ -1,17 +1,17 @@
-﻿{
-    "prefix":  "zmdi",
-    "info":  {
-                 "name":  "Material Design Iconic Font",
-                 "url":  "",
-                 "total":  777,
-                 "author":  {
-                                "name":  "MDI Community",
-                                "url":  "https://github.com/zavoloklom/material-design-iconic-font"
-                            },
-                 "license":  {
-                                 "title":  "Open Font License",
-                                 "spdx":  "OFL-1.1"
-                             }
-             },
-    "lastModified":  1770450022
+{
+  "prefix": "zmdi",
+  "info": {
+    "name": "Material Design Iconic Font",
+    "url": "",
+    "total": 777,
+    "author": {
+      "name": "MDI Community",
+      "url": "https://github.com/zavoloklom/material-design-iconic-font"
+    },
+    "license": {
+      "title": "Open Font License",
+      "spdx": "OFL-1.1"
+    }
+  },
+  "lastModified": 1770450022
 }

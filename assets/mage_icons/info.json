@@ -1,18 +1,18 @@
-﻿{
-    "prefix":  "mage",
-    "info":  {
-                 "name":  "Mage Icons",
-                 "url":  "",
-                 "total":  1042,
-                 "author":  {
-                                "name":  "MageIcons",
-                                "url":  "https://github.com/Mage-Icons/mage-icons"
-                            },
-                 "license":  {
-                                 "title":  "Apache 2.0",
-                                 "spdx":  "Apache-2.0",
-                                 "url":  "https://github.com/Mage-Icons/mage-icons/blob/main/License.txt"
-                             }
-             },
-    "lastModified":  1773150507
+{
+  "prefix": "mage",
+  "info": {
+    "name": "Mage Icons",
+    "url": "",
+    "total": 1042,
+    "author": {
+      "name": "MageIcons",
+      "url": "https://github.com/Mage-Icons/mage-icons"
+    },
+    "license": {
+      "title": "Apache 2.0",
+      "spdx": "Apache-2.0",
+      "url": "https://github.com/Mage-Icons/mage-icons/blob/main/License.txt"
+    }
+  },
+  "lastModified": 1773150507
 }

@@ -1,18 +1,18 @@
-﻿{
-    "prefix":  "zondicons",
-    "info":  {
-                 "name":  "Zondicons",
-                 "url":  "",
-                 "total":  297,
-                 "author":  {
-                                "name":  "Steve Schoger",
-                                "url":  "https://github.com/dukestreetstudio/zondicons"
-                            },
-                 "license":  {
-                                 "title":  "MIT",
-                                 "spdx":  "MIT",
-                                 "url":  "https://github.com/dukestreetstudio/zondicons/blob/master/LICENSE"
-                             }
-             },
-    "lastModified":  1770450023
+{
+  "prefix": "zondicons",
+  "info": {
+    "name": "Zondicons",
+    "url": "",
+    "total": 297,
+    "author": {
+      "name": "Steve Schoger",
+      "url": "https://github.com/dukestreetstudio/zondicons"
+    },
+    "license": {
+      "title": "MIT",
+      "spdx": "MIT",
+      "url": "https://github.com/dukestreetstudio/zondicons/blob/master/LICENSE"
+    }
+  },
+  "lastModified": 1770450023
 }

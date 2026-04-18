@@ -1,18 +1,18 @@
-﻿{
-    "prefix":  "fe",
-    "info":  {
-                 "name":  "Feather Icon",
-                 "url":  "",
-                 "total":  255,
-                 "author":  {
-                                "name":  "Megumi Hano",
-                                "url":  "https://github.com/feathericon/feathericon"
-                            },
-                 "license":  {
-                                 "title":  "MIT",
-                                 "spdx":  "MIT",
-                                 "url":  "https://github.com/feathericon/feathericon/blob/master/LICENSE"
-                             }
-             },
-    "lastModified":  1770449293
+{
+  "prefix": "fe",
+  "info": {
+    "name": "Feather Icon",
+    "url": "",
+    "total": 255,
+    "author": {
+      "name": "Megumi Hano",
+      "url": "https://github.com/feathericon/feathericon"
+    },
+    "license": {
+      "title": "MIT",
+      "spdx": "MIT",
+      "url": "https://github.com/feathericon/feathericon/blob/master/LICENSE"
+    }
+  },
+  "lastModified": 1770449293
 }

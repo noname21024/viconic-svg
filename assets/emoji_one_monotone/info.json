@@ -1,18 +1,18 @@
-﻿{
-    "prefix":  "emojione-monotone",
-    "info":  {
-                 "name":  "Emoji One (Monotone)",
-                 "url":  "",
-                 "total":  1403,
-                 "author":  {
-                                "name":  "Emoji One",
-                                "url":  "https://github.com/EmojiTwo/emojitwo"
-                            },
-                 "license":  {
-                                 "title":  "CC BY 4.0",
-                                 "spdx":  "CC-BY-4.0",
-                                 "url":  "https://creativecommons.org/licenses/by/4.0/"
-                             }
-             },
-    "lastModified":  1770449251
+{
+  "prefix": "emojione-monotone",
+  "info": {
+    "name": "Emoji One (Monotone)",
+    "url": "",
+    "total": 1403,
+    "author": {
+      "name": "Emoji One",
+      "url": "https://github.com/EmojiTwo/emojitwo"
+    },
+    "license": {
+      "title": "CC BY 4.0",
+      "spdx": "CC-BY-4.0",
+      "url": "https://creativecommons.org/licenses/by/4.0/"
+    }
+  },
+  "lastModified": 1770449251
 }

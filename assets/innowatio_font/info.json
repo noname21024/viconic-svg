@@ -1,18 +1,18 @@
-﻿{
-    "prefix":  "iwwa",
-    "info":  {
-                 "name":  "Innowatio Font",
-                 "url":  "",
-                 "total":  105,
-                 "author":  {
-                                "name":  "Innowatio",
-                                "url":  "https://github.com/innowatio/iwwa-icons"
-                            },
-                 "license":  {
-                                 "title":  "Apache 2.0",
-                                 "spdx":  "Apache-2.0",
-                                 "url":  "https://www.apache.org/licenses/LICENSE-2.0"
-                             }
-             },
-    "lastModified":  1770449541
+{
+  "prefix": "iwwa",
+  "info": {
+    "name": "Innowatio Font",
+    "url": "",
+    "total": 105,
+    "author": {
+      "name": "Innowatio",
+      "url": "https://github.com/innowatio/iwwa-icons"
+    },
+    "license": {
+      "title": "Apache 2.0",
+      "spdx": "Apache-2.0",
+      "url": "https://www.apache.org/licenses/LICENSE-2.0"
+    }
+  },
+  "lastModified": 1770449541
 }

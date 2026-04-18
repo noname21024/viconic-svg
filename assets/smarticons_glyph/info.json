@@ -1,17 +1,17 @@
-﻿{
-    "prefix":  "si-glyph",
-    "info":  {
-                 "name":  "SmartIcons Glyph",
-                 "url":  "",
-                 "total":  799,
-                 "author":  {
-                                "name":  "SmartIcons"
-                            },
-                 "license":  {
-                                 "title":  "CC BY SA 4.0",
-                                 "spdx":  "CC-BY-SA-4.0",
-                                 "url":  "https://creativecommons.org/licenses/by-sa/4.0/"
-                             }
-             },
-    "lastModified":  1770449839
+{
+  "prefix": "si-glyph",
+  "info": {
+    "name": "SmartIcons Glyph",
+    "url": "",
+    "total": 799,
+    "author": {
+      "name": "SmartIcons"
+    },
+    "license": {
+      "title": "CC BY SA 4.0",
+      "spdx": "CC-BY-SA-4.0",
+      "url": "https://creativecommons.org/licenses/by-sa/4.0/"
+    }
+  },
+  "lastModified": 1770449839
 }

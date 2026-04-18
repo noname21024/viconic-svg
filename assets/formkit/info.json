@@ -1,18 +1,18 @@
-﻿{
-    "prefix":  "formkit",
-    "info":  {
-                 "name":  "FormKit Icons",
-                 "url":  "",
-                 "total":  144,
-                 "author":  {
-                                "name":  "FormKit, Inc",
-                                "url":  "https://github.com/formkit/formkit/tree/master/packages/icons"
-                            },
-                 "license":  {
-                                 "title":  "MIT",
-                                 "spdx":  "MIT",
-                                 "url":  "https://github.com/formkit/formkit/blob/master/packages/icons/LICENSE"
-                             }
-             },
-    "lastModified":  1771300313
+{
+  "prefix": "formkit",
+  "info": {
+    "name": "FormKit Icons",
+    "url": "",
+    "total": 144,
+    "author": {
+      "name": "FormKit, Inc",
+      "url": "https://github.com/formkit/formkit/tree/master/packages/icons"
+    },
+    "license": {
+      "title": "MIT",
+      "spdx": "MIT",
+      "url": "https://github.com/formkit/formkit/blob/master/packages/icons/LICENSE"
+    }
+  },
+  "lastModified": 1771300313
 }

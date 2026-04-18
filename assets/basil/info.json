@@ -1,18 +1,18 @@
-﻿{
-    "prefix":  "basil",
-    "info":  {
-                 "name":  "Basil",
-                 "url":  "",
-                 "total":  493,
-                 "author":  {
-                                "name":  "Craftwork",
-                                "url":  "https://www.figma.com/community/file/931906394678748246"
-                            },
-                 "license":  {
-                                 "title":  "CC BY 4.0",
-                                 "spdx":  "CC-BY-4.0",
-                                 "url":  "https://creativecommons.org/licenses/by/4.0/"
-                             }
-             },
-    "lastModified":  1770449188
+{
+  "prefix": "basil",
+  "info": {
+    "name": "Basil",
+    "url": "",
+    "total": 493,
+    "author": {
+      "name": "Craftwork",
+      "url": "https://www.figma.com/community/file/931906394678748246"
+    },
+    "license": {
+      "title": "CC BY 4.0",
+      "spdx": "CC-BY-4.0",
+      "url": "https://creativecommons.org/licenses/by/4.0/"
+    }
+  },
+  "lastModified": 1770449188
 }

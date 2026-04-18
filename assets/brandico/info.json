@@ -1,18 +1,18 @@
-﻿{
-    "prefix":  "brandico",
-    "info":  {
-                 "name":  "Brandico",
-                 "url":  "",
-                 "total":  45,
-                 "author":  {
-                                "name":  "Fontello",
-                                "url":  "https://github.com/fontello/brandico.font"
-                            },
-                 "license":  {
-                                 "title":  "CC BY SA",
-                                 "spdx":  "CC-BY-SA-3.0",
-                                 "url":  "https://creativecommons.org/licenses/by-sa/3.0/"
-                             }
-             },
-    "lastModified":  1770449194
+{
+  "prefix": "brandico",
+  "info": {
+    "name": "Brandico",
+    "url": "",
+    "total": 45,
+    "author": {
+      "name": "Fontello",
+      "url": "https://github.com/fontello/brandico.font"
+    },
+    "license": {
+      "title": "CC BY SA",
+      "spdx": "CC-BY-SA-3.0",
+      "url": "https://creativecommons.org/licenses/by-sa/3.0/"
+    }
+  },
+  "lastModified": 1770449194
 }

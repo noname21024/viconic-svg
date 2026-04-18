@@ -1,18 +1,18 @@
-﻿{
-    "prefix":  "codicon",
-    "info":  {
-                 "name":  "Codicons",
-                 "url":  "",
-                 "total":  543,
-                 "author":  {
-                                "name":  "Microsoft Corporation",
-                                "url":  "https://github.com/microsoft/vscode-codicons"
-                            },
-                 "license":  {
-                                 "title":  "CC BY 4.0",
-                                 "spdx":  "CC-BY-4.0",
-                                 "url":  "https://github.com/microsoft/vscode-codicons/blob/main/LICENSE"
-                             }
-             },
-    "lastModified":  1774533267
+{
+  "prefix": "codicon",
+  "info": {
+    "name": "Codicons",
+    "url": "",
+    "total": 543,
+    "author": {
+      "name": "Microsoft Corporation",
+      "url": "https://github.com/microsoft/vscode-codicons"
+    },
+    "license": {
+      "title": "CC BY 4.0",
+      "spdx": "CC-BY-4.0",
+      "url": "https://github.com/microsoft/vscode-codicons/blob/main/LICENSE"
+    }
+  },
+  "lastModified": 1774533267
 }

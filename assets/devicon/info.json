@@ -1,18 +1,18 @@
-﻿{
-    "prefix":  "devicon",
-    "info":  {
-                 "name":  "Devicon",
-                 "url":  "",
-                 "total":  1020,
-                 "author":  {
-                                "name":  "konpa",
-                                "url":  "https://github.com/devicons/devicon/tree/master"
-                            },
-                 "license":  {
-                                 "title":  "MIT",
-                                 "spdx":  "MIT",
-                                 "url":  "https://github.com/devicons/devicon/blob/master/LICENSE"
-                             }
-             },
-    "lastModified":  1770449241
+{
+  "prefix": "devicon",
+  "info": {
+    "name": "Devicon",
+    "url": "",
+    "total": 1020,
+    "author": {
+      "name": "konpa",
+      "url": "https://github.com/devicons/devicon/tree/master"
+    },
+    "license": {
+      "title": "MIT",
+      "spdx": "MIT",
+      "url": "https://github.com/devicons/devicon/blob/master/LICENSE"
+    }
+  },
+  "lastModified": 1770449241
 }

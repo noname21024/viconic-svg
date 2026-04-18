@@ -1,18 +1,18 @@
-﻿{
-    "prefix":  "pixel",
-    "info":  {
-                 "name":  "Pixel Icon",
-                 "url":  "",
-                 "total":  450,
-                 "author":  {
-                                "name":  "HackerNoon",
-                                "url":  "https://github.com/hackernoon/pixel-icon-library"
-                            },
-                 "license":  {
-                                 "title":  "CC BY 4.0",
-                                 "spdx":  "CC-BY-4.0",
-                                 "url":  "https://creativecommons.org/licenses/by/4.0/"
-                             }
-             },
-    "lastModified":  1770449815
+{
+  "prefix": "pixel",
+  "info": {
+    "name": "Pixel Icon",
+    "url": "",
+    "total": 450,
+    "author": {
+      "name": "HackerNoon",
+      "url": "https://github.com/hackernoon/pixel-icon-library"
+    },
+    "license": {
+      "title": "CC BY 4.0",
+      "spdx": "CC-BY-4.0",
+      "url": "https://creativecommons.org/licenses/by/4.0/"
+    }
+  },
+  "lastModified": 1770449815
 }

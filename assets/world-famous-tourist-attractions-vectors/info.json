@@ -1,17 +1,17 @@
-﻿{
-    "prefix":  "svgrepo",
-    "info":  {
-                 "name":  "world-famous-tourist-attractions-vectors",
-                 "url":  "https://www.svgrepo.com/collection/world-famous-tourist-attractions-vectors/",
-                 "total":  20,
-                 "author":  {
-                                "name":  "harikadeng",
-                                "url":  "https://www.svgrepo.com/author/harikadeng/"
-                            },
-                 "license":  {
-                                 "title":  "PD License",
-                                 "url":  "https://www.svgrepo.com/page/licensing/#PD"
-                             }
-             },
-    "lastModified":  1774163218
+{
+  "prefix": "svgrepo",
+  "info": {
+    "name": "world-famous-tourist-attractions-vectors",
+    "url": "https://www.svgrepo.com/collection/world-famous-tourist-attractions-vectors/",
+    "total": 20,
+    "author": {
+      "name": "harikadeng",
+      "url": "https://www.svgrepo.com/author/harikadeng/"
+    },
+    "license": {
+      "title": "PD License",
+      "url": "https://www.svgrepo.com/page/licensing/#PD"
+    }
+  },
+  "lastModified": 1774163218
 }

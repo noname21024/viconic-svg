@@ -1,18 +1,18 @@
-﻿{
-    "prefix":  "ant-design",
-    "info":  {
-                 "name":  "Ant Design Icons",
-                 "url":  "",
-                 "total":  830,
-                 "author":  {
-                                "name":  "HeskeyBaozi",
-                                "url":  "https://github.com/ant-design/ant-design-icons"
-                            },
-                 "license":  {
-                                 "title":  "MIT",
-                                 "spdx":  "MIT",
-                                 "url":  "https://github.com/ant-design/ant-design-icons/blob/master/LICENSE"
-                             }
-             },
-    "lastModified":  1770449138
+{
+  "prefix": "ant-design",
+  "info": {
+    "name": "Ant Design Icons",
+    "url": "",
+    "total": 830,
+    "author": {
+      "name": "HeskeyBaozi",
+      "url": "https://github.com/ant-design/ant-design-icons"
+    },
+    "license": {
+      "title": "MIT",
+      "spdx": "MIT",
+      "url": "https://github.com/ant-design/ant-design-icons/blob/master/LICENSE"
+    }
+  },
+  "lastModified": 1770449138
 }

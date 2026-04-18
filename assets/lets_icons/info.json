@@ -1,18 +1,18 @@
-﻿{
-    "prefix":  "lets-icons",
-    "info":  {
-                 "name":  "Lets Icons",
-                 "url":  "",
-                 "total":  1528,
-                 "author":  {
-                                "name":  "Leonid Tsvetkov",
-                                "url":  "https://www.figma.com/community/file/886554014393250663"
-                            },
-                 "license":  {
-                                 "title":  "CC BY 4.0",
-                                 "spdx":  "CC-BY-4.0",
-                                 "url":  "https://creativecommons.org/licenses/by/4.0/"
-                             }
-             },
-    "lastModified":  1773149862
+{
+  "prefix": "lets-icons",
+  "info": {
+    "name": "Lets Icons",
+    "url": "",
+    "total": 1528,
+    "author": {
+      "name": "Leonid Tsvetkov",
+      "url": "https://www.figma.com/community/file/886554014393250663"
+    },
+    "license": {
+      "title": "CC BY 4.0",
+      "spdx": "CC-BY-4.0",
+      "url": "https://creativecommons.org/licenses/by/4.0/"
+    }
+  },
+  "lastModified": 1773149862
 }
